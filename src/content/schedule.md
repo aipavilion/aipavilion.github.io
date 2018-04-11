@@ -1,0 +1,1 @@
+The seminar will meet Mondays, 3:30PM - 6:00PM. (Location to be announced later.)
