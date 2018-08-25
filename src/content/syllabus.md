@@ -3,11 +3,16 @@
 ### **PAVS 4500 (004): How will Artificial Intelligence change Humanity?**
 University of Virginia, Fall 2018
 
-**Meetings:** Mondays, 3:30-6:00PM
+**Meetings:** Mondays, 3:30-6:00PM in Rice 536.
 
 **Coordinator:** [David Evans](http://www.cs.virginia.edu/evans)
   (evans@virginia.edu). My
   [office](http://www.cs.virginia.edu/evans/office) is Rice 507.
+
+**Office Hours:** I will have office hours on Thursdays,
+  9:30-10:30am. To schedule another time, please use
+  [https://davidevans.youcanbook.me/](https://davidevans.youcanbook.me/). When
+  my door is open, you are welcome to stop by anytime.
 
 ### Description
 
@@ -29,8 +34,34 @@ intelligence, philosophical and political readings to understand how
 society might adapt to increasingly intelligence machines, and various
 other media including computer simulations, music, and movies.
 
-### Coming soon...
+## Assignments
 
-The rest of the syllabus will be posted here around August.
+Students in the seminar will be expected to complete a variety of
+different types of assignments during the semester, including:
 
+**Reactions to Readings:** Short weekly essays reacting to readings
+and questions posted about the readings.  These essays will be posted
+on the class website, and available to all students in the class for
+further discussion and comments.
+
+**Papers:** Two major papers one due mid-way through the semester, and
+the other due near the end. For both of the papers, students would
+submit a preliminary draft to the instructor for feedback, and would
+be expected to revise the final paper in response to comments and
+discussion. For the first paper, students will focus on one aspect of
+how artificial intelligence has already impacted society, describing
+the impact of technological advances on a social, political, economic,
+or psychological aspect of human existence. For the second paper,
+students will speculate on the future, grounding their arguments in
+technical understanding of the expected capabilities of artificial
+intelligence, and considering how humanity may adapt to a future with
+intelligent machines. Students are encouraged to develop creative
+ideas for alternative topics for the papers, as well as alternate
+communications tools (such as a scripted video or podcast instead of a
+paper), and to discuss and gain approval for proposed alternatives
+with the course instructor.
+
+See [/schedule](the course schedule) for details on the readings and assignments.
+
+## Evaluation
 
