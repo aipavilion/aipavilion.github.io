@@ -13,6 +13,12 @@ University of Virginia, Fall 2018
   [https://davidevans.youcanbook.me/](https://davidevans.youcanbook.me/). When
   my door is open, you are welcome to stop by anytime.
 
+**Course Website:** [https://aipavilion.github.io](https://aipavilion.github.io)
+
+**Forum:** We will use the subreddit,
+  [/r/aipavilion](https://www.reddit.com/r/aipavilion/), for
+  discussions and sharing.
+
 ### Description
 
 Artificial intelligence has made remarkable advances in the past
@@ -45,15 +51,17 @@ Students are not required to have any particular background in
 computing or artificial intelligence, but it is hoped that all student
 swill bring some interesting experience and background to the seminar.
 
-## Assignments
+### Assignments
 
 Students in the seminar will be expected to complete a variety of
 different types of assignments during the semester, including:
 
-**Reactions to Readings:** Short weekly essays reacting to readings
-and questions posted about the readings.  These essays will be posted
-on the class website, and available to all students in the class for
-further discussion and comments.
+**Readings and Reactions:** Most weeks we will have reading (and
+sometimes viewing) assignments that will typically be some chapters
+from a book and a few short articles. Short weekly essays reacting to
+readings and questions posted about the readings.  These essays will
+be posted on the class forum, and available to all students in the
+class for further discussion and comments.
 
 **Papers:** Two major papers one due mid-way through the semester, and
 the other due near the end. For both of the papers, students would
@@ -75,7 +83,7 @@ with the course instructor.
 See [the course schedule](/schedule) for details on the readings and
 assignments.
 
-## Honor
+### Honor
 
 We believe strongly in the value of a _community of trust_, and expect
 all of the students in this class to contribute to strenghtening and
@@ -96,7 +104,7 @@ stated and make it unambiguous what is and is not permitted. If it is
 ever unclear what is considered acceptable on an assignment, please
 check with me.
 
-## Expectations and Accommodations
+### Expectations and Accommodations
 
 It is my goal to create a learning experience that is as engaging,
 worthwhile, and accessible as possible. We hope the topics we discuss
@@ -127,7 +135,7 @@ you are encountering issues that make it difficult to participate
 fully in the seminar, please let me know as soon as possible, and we
 will work something out.
 
-## Evaluation
+### Evaluation
 
 Students will be evaluated primarily based on:
 
