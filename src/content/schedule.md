@@ -1,5 +1,6 @@
+## Schedule
 
-<table>
+<table width="90%" align="center">
 <tr bgcolor="#CCC"><td style="text-align:center" width="20%"><b>Date</b></td><td width="30%" style="text-align:center"><b>Topic</b></td><td style="text-align:center" width="30%"><b>Readings</b></td></tr>
 
 <tr bgcolor="#FFF"><td><a href="/class1">Class 1</a> (3 September)</td><td></td></td></td></tr>

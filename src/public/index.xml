@@ -29,7 +29,11 @@ Evans&lt;/a&gt;.  Enrollment is by permission only, and strictly limited to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/schedule/</guid>
-      <description>&lt;table&gt;
+      <description>
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;table width=&#34;90%&#34; align=&#34;center&#34;&gt;
 &lt;tr bgcolor=&#34;#CCC&#34;&gt;&lt;td style=&#34;text-align:center&#34; width=&#34;20%&#34;&gt;&lt;b&gt;Date&lt;/b&gt;&lt;/td&gt;&lt;td width=&#34;30%&#34; style=&#34;text-align:center&#34;&gt;&lt;b&gt;Topic&lt;/b&gt;&lt;/td&gt;&lt;td style=&#34;text-align:center&#34; width=&#34;30%&#34;&gt;&lt;b&gt;Readings&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
 
 &lt;tr bgcolor=&#34;#FFF&#34;&gt;&lt;td&gt;&lt;a href=&#34;https://aipavilion.github.io/class1&#34;&gt;Class 1&lt;/a&gt; (3 September)&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;
