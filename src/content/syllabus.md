@@ -91,69 +91,6 @@ The deliverables for the paper assignments are:
 
 (Deadlines are by 11:59pm on the date given.)
 
-### Honor
-
-We believe strongly in the value of a _community of trust_, and expect
-all of the students in this class to contribute to strenghtening and
-enhancing that community.  
-
-As a student at the University of Virginia, you are trusted to be
-honorable and expected to behave in ways that merit that trust. We
-take advantage of this trust to provide a better learning environment
-for everyone.  The course will be better for everyone if everyone can
-assume everyone else is trustworthy, and we start from the assumption
-that all students at the university deserve to be trusted.
-
-For most assignments in this course, you will be encouraged to discuss
-ideas and work with others to develop your ideas. You will always be
-expected to credit any collaborators and document any resources you
-use. The honor expectations for each assignment should be clearly
-stated and make it unambiguous what is and is not permitted. If it is
-ever unclear what is considered acceptable on an assignment, please
-check with me.
-
-### Expectations and Accommodations
-
-It is my goal to create a learning experience that is as engaging,
-worthwhile, and accessible as possible. We hope the topics we discuss
-in this class will be ones where many students feel passionately and
-have strong views they want to share. It is important that everyone is
-respectful and that discussions focus on ideas and evidence, and that
-everyone has an opportunity to share their thoughts without
-interruption.
-
-If you anticipate any issues related to the format, materials, or
-requirements of this course, please meet with me outside of class so
-we can explore potential options. Students with disabilities may also
-wish to work with the Student Disability Access Center to discuss a
-range of options to removing barriers in this course, including
-official accommodations. Please visit their website for information on
-this process and to apply for services online:
-[sdac.studenthealth.virginia.edu](sdac.studenthealth.virginia.edu). If
-you have already been approved for accommodations through SDAC, please
-send me your accommodation letter and meet with me so we can develop
-an implementation plan together.
-
-Since the class only meets once a week, and is in a seminar style, it
-is essential that everyone attend every class, prepares well and
-contributes outside of class, and is fully engaged during the seminar
-time. That said, I understand that personal circumstances arise that
-may make this difficult or impossible for some students some weeks. If
-you are encountering issues that make it difficult to participate
-fully in the seminar, please let me know as soon as possible, and we
-will work something out.
-
-### Evaluation
-
-Students will be evaluated primarily based on:
-
-- Overall contribution to the seminar. This includes contributions in
-  class and one the course forum, as well as any extraordinary
-  contributions to making the seminar worthwhile.
-
-- Quality of the major writing assignments. Papers will be evaluated
-  for their creativity, novelty, persuasiveness, and clarity.
-
 ### Readings
 
 The main books we will read for the first part of the class will be:
@@ -187,7 +124,85 @@ Human Creativity Begins_. 2017.
 - Max Tegmark. _Life 3.0: Being Human in the Age of Artificial Intelligence_. 2017.
 
 In addition to the books, there will be readings from articles and
-other materials.
+other materials. The weekly reading assignments will be posted on the
+course site.
+
+### Honor
+
+We believe strongly in the value of a _community of trust_, and expect
+all of the students in this class to contribute to strenghtening and
+enhancing that community.  
+
+As a student at the University of Virginia, you are trusted to be
+honorable and expected to behave in ways that merit that trust. We
+take advantage of this trust to provide a better learning environment
+for everyone.  The course will be better for everyone if everyone can
+assume everyone else is trustworthy, and we start from the assumption
+that all students at the university deserve to be trusted.
+
+For most assignments in this course, you will be encouraged to discuss
+ideas and work with others to develop your ideas. You will always be
+expected to credit any collaborators and document any resources you
+use. The honor expectations for each assignment should be clearly
+stated and make it unambiguous what is and is not permitted. If it is
+ever unclear what is considered acceptable on an assignment, please
+check with me.
+
+### Expectations and Accommodations
+
+It is my goal to create a learning experience that is as engaging,
+worthwhile, and accessible as possible. We hope the topics we discuss
+in this class will be ones where many students feel passionately and
+have strong views they want to share. Some of the readings will
+contradict your deeply held beliefs and challenge your assumptions.
+It is important that everyone is respectful and that discussions focus
+on ideas and evidence, and that everyone has an opportunity to share
+their thoughts without interruption.
+
+Since the class only meets once a week, and is in a seminar style, it
+is essential that everyone attend every class, prepares well and
+contributes outside of class, and is fully engaged during the seminar
+time. That said, I understand that personal circumstances arise that
+may make this difficult or impossible for some students some weeks. If
+you are encountering issues that make it difficult to participate
+fully in the seminar, please let me know as soon as possible, and we
+will work something out.
+
+If you anticipate any issues related to the format, materials, or
+requirements of this course, please meet with me outside of class so
+we can explore potential options. Students with disabilities may also
+wish to work with the Student Disability Access Center to discuss a
+range of options to removing barriers in this course, including
+official accommodations. Please visit their website for information on
+this process and to apply for services online:
+[sdac.studenthealth.virginia.edu](sdac.studenthealth.virginia.edu). If
+you have already been approved for accommodations through SDAC, please
+send me your accommodation letter and meet with me so we can develop
+an implementation plan together.
+
+### Evaluation
+
+Students will be evaluated primarily based on:
+
+- Overall contribution to the seminar. This includes contributions in
+  class and one the course forum, as well as any extraordinary
+  contributions to making the seminar worthwhile.
+
+- Quality of the major writing assignments. Papers will be evaluated
+  for their creativity, novelty, persuasiveness, and clarity. The
+  grades will be based on the final papers, after revisions based on
+  feedback from the proposal and first draft.  
+
+I don't provide a generic percentage breakdown for each of the
+components, since excellent performance on any one of them (along with
+acceptable effort on the others) will be enough to justify an A in the
+course.  For a typical students, I would expect the grade is
+determined by 50% for the final paper, 25% for the first paper, and
+25% for class contributions.  But a student who does an outstanding
+job on the first paper, or who consistently makes outstanding
+contributions to the course, will have heavier weighting for those
+components.
+
 
 
 
