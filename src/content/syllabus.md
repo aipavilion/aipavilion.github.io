@@ -58,30 +58,38 @@ different types of assignments during the semester, including:
 
 **Readings and Reactions:** Most weeks we will have reading (and
 sometimes viewing) assignments that will typically be some chapters
-from a book and a few short articles. Short weekly essays reacting to
+from a book and a few short articles. Short weekly responses to
 readings and questions posted about the readings.  These essays will
 be posted on the class forum, and available to all students in the
 class for further discussion and comments.
 
-**Papers:** Two major papers one due mid-way through the semester, and
-the other due near the end. For both of the papers, students would
-submit a preliminary draft to the instructor for feedback, and would
-be expected to revise the final paper in response to comments and
-discussion. For the first paper, students will focus on one aspect of
-how artificial intelligence has already impacted society, describing
-the impact of technological advances on a social, political, economic,
-or psychological aspect of human existence. For the second paper,
-students will speculate on the future, grounding their arguments in
-technical understanding of the expected capabilities of artificial
-intelligence, and considering how humanity may adapt to a future with
-intelligent machines. Students are encouraged to develop creative
-ideas for alternative topics for the papers, as well as alternate
-communications tools (such as a scripted video or podcast instead of a
-paper), and to discuss and gain approval for proposed alternatives
-with the course instructor.
+**Papers:** There will be two major papers in the seminar. For both of
+the papers, students will develop an idea for the paper and discuss it
+with the class, submit a preliminary draft to the instructor for
+feedback, and would be expected to revise the final paper in response
+to comments and discussion. For the first paper, students will focus
+on one aspect of how artificial intelligence has already impacted
+society, describing the impact of technological advances on a social,
+political, economic, or psychological aspect of human existence. For
+the second paper, students will speculate on the future, grounding
+their arguments in technical understanding of the expected
+capabilities of artificial intelligence, and considering how humanity
+may adapt to a future with intelligent machines. Students are
+encouraged to develop creative ideas for alternative topics for the
+papers, as well as alternate communications tools (such as a scripted
+video or podcast instead of a paper), and to discuss and gain approval
+for proposed alternatives with the course instructor.
 
-See [the course schedule](/schedule) for details on the readings and
-assignments.
+The deliverables for the paper assignments are:
+
+- <b>Sunday, 30 September</b>: Idea for First Paper Due
+- <b>Wednesday, 17 October</b>: First Paper Draft Due
+- <b>Tuesday, 30 October</b>: First Paper Final Due
+- <b>Sunday, 11 November</b>: Proposal for Final Paper Due
+- <b>Tuesday, 20 November</b>: Draft of Final Paper Due
+- <b>Monday, 10 December</b>: Final Paper Due
+
+(Deadlines are by 11:59pm on the date given.)
 
 ### Honor
 
@@ -146,6 +154,40 @@ Students will be evaluated primarily based on:
 - Quality of the major writing assignments. Papers will be evaluated
   for their creativity, novelty, persuasiveness, and clarity.
 
+### Readings
+
+The main books we will read for the first part of the class will be:
+
+- Yuval Noah Harari, _Sapiens: A Brief History of Humankind_. February
+2015 (first published in Hebrew in 2011)
+[[Amazon]](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/)
+[[Barnes &amp;
+Noble]](https://www.barnesandnoble.com/w/sapiens-yuval-noah-harari/1118611502#/)
+
+- Nick Bostrom, _Superintelligence: Paths, Dangers, Strategies_. 2014.
+[[Amazon]](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
+[[Barnes &amp; Noble]](https://www.barnesandnoble.com/w/superintelligence-nick-bostrom/1117941299)
+
+The focus books for the second half of the class will be selected
+based on students' interests and the discussions we have in class, but
+the most likely books include:
+
+- Cathy O’Neil. _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens
+Democracy_. 2016.
+
+- Martin Ford. _Rise of the Robots: Technology and the Threat of a Jobless Future_. 2015.
+
+- Yuval Noah Harari. _Homo Deus: A Brief History of Tomorrow_. 2017.
+
+- Jerry Kaplan, _Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence_. 2015.
+
+- Garry Kasparov, _Deep Thinking: Where Machine Intelligence Ends and
+Human Creativity Begins_. 2017.
+
+- Max Tegmark. _Life 3.0: Being Human in the Age of Artificial Intelligence_. 2017.
+
+In addition to the books, there will be readings from articles and
+other materials.
 
 
 
