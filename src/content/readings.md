@@ -7,6 +7,7 @@ The main books we will read for the first part of the class will be:
 [[Amazon]](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/)
 [[Barnes &amp;
 Noble]](https://www.barnesandnoble.com/w/sapiens-yuval-noah-harari/1118611502#/)
+[[President Obama's recommentation]](https://www.youtube.com/watch?v=AnPs8vnZ0I4)
 
 - Nick Bostrom, _Superintelligence: Paths, Dangers, Strategies_. 2014.
 [[Amazon]](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834)

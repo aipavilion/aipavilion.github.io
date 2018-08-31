@@ -9,7 +9,7 @@ University of Virginia, Fall 2018
   (evans@virginia.edu). My
   [office](http://www.cs.virginia.edu/evans/office) is Rice 507.
 
-**Office Hours:** I will have office hours on **Thursdays**, **9:30-10:30am**. To schedule another time, please use
+**Office Hours:** I will have office hours on **Thursdays**, **9:00-10:30am**. To schedule another time, please use
   [https://davidevans.youcanbook.me/](https://davidevans.youcanbook.me/). When
   my door is open, you are welcome to stop by anytime.
 
@@ -181,6 +181,9 @@ send me your accommodation letter and meet with me so we can develop
 an implementation plan together.
 
 ### Evaluation
+
+My hope is students will focus on learning and producing something of
+value.
 
 Students will be evaluated primarily based on:
 

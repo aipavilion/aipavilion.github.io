@@ -1,4 +1,7 @@
 [0syllabus]
     Name = "Syllabus"
     URL = "/syllabus"
+[1schedule]
+    Name = "Schedule"
+    URL = "/schedule"
 
