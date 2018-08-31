@@ -1,3 +1,12 @@
++++
+date = "31 Aug 2018"
+draft = false
+title = "Syllabus"
+slug = "syllabus"
++++
+
+<div class="printing"><a href="/docs/syllabus.pdf">PDF for Printing</a></div>
+
 ## Syllabus
 
 ### **PAVS 4500 (004): How will Artificial Intelligence change Humanity?**
