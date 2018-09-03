@@ -7,9 +7,7 @@ slug = "syllabus"
 
 <div class="printing"><a href="/docs/syllabus.pdf">PDF for Printing</a></div>
 
-## Syllabus
-
-### **PAVS 4500 (004): How will Artificial Intelligence change Humanity?**
+**PAVS 4500 (004): _How will Artificial Intelligence change Humanity?_**  
 University of Virginia, Fall 2018
 
 **Meetings:** **Mondays**, **3:30-6:00PM** in **Rice 536**.
@@ -89,7 +87,7 @@ papers, as well as alternate communications tools (such as a scripted
 video or podcast instead of a paper), and to discuss and gain approval
 for proposed alternatives with the course instructor.
 
-The deliverables for the paper assignments are:
+The deliverables for the paper assignments are (deadlines are by 11:59pm on the date given):
 
 - <b>Sunday, 30 September</b>: Idea for First Paper Due
 - <b>Wednesday, 17 October</b>: First Paper Draft Due
@@ -97,8 +95,6 @@ The deliverables for the paper assignments are:
 - <b>Sunday, 11 November</b>: Proposal for Final Paper Due
 - <b>Tuesday, 20 November</b>: Draft of Final Paper Due
 - <b>Monday, 10 December</b>: Final Paper Due
-
-(Deadlines are by 11:59pm on the date given.)
 
 ### Readings
 
@@ -150,12 +146,12 @@ assume everyone else is trustworthy, and we start from the assumption
 that all students at the university deserve to be trusted.
 
 For most assignments in this course, you will be encouraged to discuss
-ideas and work with others to develop your ideas. You will always be
-expected to credit any collaborators and document any resources you
-use. The honor expectations for each assignment should be clearly
-stated and make it unambiguous what is and is not permitted. If it is
-ever unclear what is considered acceptable on an assignment, please
-check with me.
+ideas and work with others to develop your ideas, but expected to do
+your writing on your own. You will always be expected to credit any
+collaborators and properly cite any resources you use. The honor
+expectations for each assignment should be clearly stated and make it
+unambiguous what is and is not permitted. If it is ever unclear what
+is considered acceptable on an assignment, please check with me.
 
 ### Expectations and Accommodations
 
@@ -201,9 +197,12 @@ Students will be evaluated primarily based on:
   contributions to making the seminar worthwhile.
 
 - Quality of the major writing assignments. Papers will be evaluated
-  for their creativity, novelty, persuasiveness, and clarity. The
-  grades will be based on the final papers, after revisions based on
-  feedback from the proposal and first draft.  
+  for their creativity, novelty, persuasiveness, and clarity. For both
+  of the major papers, students will have opportunities to submit
+  early versions of the paper for feedback, and will be expected to
+  improve the writing based on that feedback. The grades will be based
+  on the final papers, after revisions based on feedback from the
+  proposal and first draft.
 
 I don't provide a generic percentage breakdown for each of the
 components, since excellent performance on any one of them (along with

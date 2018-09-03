@@ -26,4 +26,8 @@ github: html
 	$(LATEXIFY) $< > $(LATEXDIR)/temp-latex.md
 	pandoc --read=markdown+raw_tex --template=$(LATEXDIR)/aipav.template $(LATEXDIR)/temp-latex.md -o $(DOCSDIR)/$@
 
+%.pdf: $(PAGEDIR)/post/%.md
+	$(LATEXIFY) $< > $(LATEXDIR)/temp-latex.md
+	pandoc --read=markdown+raw_tex --template=$(LATEXDIR)/aipav.template $(LATEXDIR)/temp-latex.md -o $(DOCSDIR)/$@
+
 .PHONY: html clean develop
