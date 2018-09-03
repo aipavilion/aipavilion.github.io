@@ -55,8 +55,9 @@ students in the College. Enrollment is by instructor permission, and
 strictly limited to 15 students.
 
 Students are not required to have any particular background in
-computing or artificial intelligence, but it is hoped that all student
-swill bring some interesting experience and background to the seminar.
+computing or artificial intelligence, but it is hoped that all
+students will bring some interesting experience and background to the
+seminar.
 
 ### Assignments
 
