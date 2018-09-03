@@ -5,6 +5,8 @@ title = "Week 1: Introduction"
 slug = "week1"
 +++
 
+<div class="printing"><a href="/docs/week1.pdf">PDF for Printing</a></div>
+
 ### Assignment
 
 Before the next class (Monday, 10 September), you should read:
