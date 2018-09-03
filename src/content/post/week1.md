@@ -7,6 +7,12 @@ slug = "week1"
 
 <div class="printing"><a href="/docs/week1.pdf">PDF for Printing</a></div>
 
+### Links
+
+Video: [_Humans Need Not Apply_](https://www.youtube.com/watch?v=7Pq-S557XQU) by CPG Grey
+
+[Slides](https://speakerdeck.com/evansuva/class1-reduced)
+
 ### Assignment
 
 Before the next class (Monday, 10 September), you should read:
