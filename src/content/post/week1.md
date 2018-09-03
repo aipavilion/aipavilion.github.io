@@ -36,9 +36,19 @@ support or contradict the claims in the book.
 3. **Reponses:** for each of the readings, either (1) write a short
 response to at least two of the questions below, or (2) write a
 detailed response to one of the questions below, or (3) pose your own
-question and provide a respone. You may select any one of the options
-above, but should be prepared to contribute to discussions in the next
-class on many of these topics.
+question and provide a respone. Post it in the [class
+sub-reddit](https://redd.it/9cobz2). You may select any one of the
+options above, but should be prepared to contribute to discussions in
+the next class on many of these topics.
+
+There are three posts in [class sub-reddit](https://www.reddit.com/r/aipavilion/) for your responses:
+
+- [Week 1: Fact Checks](https://redd.it/9cppyt) - for fact checking the claims in the readings.
+- [Week 1: Sapiens, Ch 1-8 Responses](https://redd.it/9cpqcj)
+- [Week 1: Responses to "Why Technology Favors Tyranny"](https://redd.it/9cpqk3)
+
+Please post your responses as comments for the appropriate post (and
+you are encouraged to comment on others' responses). 
 
 Response questions For _Sapiens: A Brief History of Humankind_ (see
 above - you do not need to write responses to all of these!):
