@@ -457,7 +457,8 @@ Seminar Introduction
 &lt;tr bgcolor=&#34;#FFF&#34;&gt;&lt;td&gt;&lt;a href=&#34;https://aipavilion.github.io/week3&#34;&gt;Class 3&lt;/a&gt; (17 September)&lt;/td&gt;
 &lt;td&gt;
 &lt;b&gt;Before class&lt;/b&gt;: readings and responses details, see &lt;a href=&#34;https://aipavilion.github.io/week2&#34;&gt;week 2&lt;/a&gt;.&lt;br&gt;
-&lt;em&gt;Sapiens&lt;/em&gt;, Chapters 9-13; Alan Turing, &lt;a href=&#34;https://aipavilion.github.io/docs/turing.pdf&#34;&gt;&lt;em&gt;Computing Machinery and Intelligence&lt;/em&gt;&lt;/a&gt; (1950); (optional) Claude Shannon, &lt;em&gt;Programming a Computer for Playing Chess&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Sapiens&lt;/em&gt;, Chapters 9-13; Alan Turing, &lt;a href=&#34;https://aipavilion.github.io/docs/turing.pdf&#34;&gt;&lt;em&gt;Computing Machinery and Intelligence&lt;/em&gt;&lt;/a&gt; (1950); (optional) Claude Shannon, &lt;a href=&#34;https://aipavilion.github.io/docs/shannon.pdf&#34;&gt;&lt;em&gt;Programming a Computer for Playing Chess&lt;/em&gt;&lt;/a&gt;, Silver et al., &lt;a href=&#34;https://arxiv.org/pdf/1712.01815.pdf&#34;&gt;&lt;em&gt;Mastering Chess and Shogi by Self-Play with a
+General Reinforcement Learning Algorithm&lt;/em&gt;&lt;/a&gt;, 2017.&lt;br&gt;
 
 &lt;/td&gt;&lt;/tr&gt;
 &lt;tr bgcolor=&#34;#EE8&#34;&gt;&lt;td&gt;&lt;a href=&#34;https://aipavilion.github.io/week4&#34;&gt;Class 4&lt;/a&gt; (24 September)&lt;/td&gt;&lt;td&gt;
