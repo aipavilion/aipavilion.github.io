@@ -18,12 +18,14 @@ Seminar Introduction
 <tr bgcolor="#FFF"><td><a href="/week3">Class 3</a> (17 September)</td>
 <td>
 <b>Before class</b>: readings and responses details, see <a href="/week2">week 2</a>.<br>
-<em>Sapiens</em>, Chapters 9-13; Turing, <em>Computing Machinery and Intelligence</em> (1950); Clause Shannon, <em>Programming a Computer for Playing Chess</em>.<br>
+<em>Sapiens</em>, Chapters 9-13; Alan Turing, <a href="/docs/turing.pdf"><em>Computing Machinery and Intelligence</em></a> (1950); (optional) Claude Shannon, <em>Programming a Computer for Playing Chess</em>.<br>
 
 </td></tr>
 <tr bgcolor="#EE8"><td><a href="/week4">Class 4</a> (24 September)</td><td>
 <b>Before class</b>: readings and responses details, see <a href="/week3">week 3</a>.<br>
-<em>Sapiens</em>, finish; Hallpike's review; Tyson, <em>Science's Endless Golden Age</em>.
+<em>Sapiens</em>, finish; <a href="/docs/hallpike-review.pdf">Hallpike's review</a>;
+Neil DeGrasse Tyson, <a href="/docs/tyson.pdf"><em>Science's Endless Golden Age</em></a>;
+John Maynard Keynes, <a href="/docs/keynes.pdf"><em>Economic Possibilities for our Grandchildren</em></a>, 1930.
 </td></tr>
 <tr bgcolor="#FF4"><td><b>Sunday, 30 September</b></td><td>Idea for First Paper Due</td></tr>
 <tr bgcolor="#FFF"><td><a href="/week5">Class 5</a> (1 October)</td><td>Discuss ideas for paper</td></tr>
