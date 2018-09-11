@@ -63,7 +63,7 @@ above - you do not need to write responses to all of these!):
 
    2. Chapter 2 writes about millions of individuals working together to make a nuclear warhead.  Pick a simple artifact you use every day and estimate how many humans cooperated to produce it?
 
-   3. Chpater 4: How should understanding of the historical impact of humans on other species guide our current attitudes and policies (for example, regarding endangered species and habitat protection)?
+   3. Chapter 4: How should understanding of the historical impact of humans on other species guide our current attitudes and policies (for example, regarding endangered species and habitat protection)?
 
    4. Chapter 5: Why has no noteworthy plant or animal been domesticated in the past 2,000 years?
 
