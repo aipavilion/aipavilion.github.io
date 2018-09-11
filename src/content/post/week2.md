@@ -55,8 +55,7 @@ you are encouraged to comment on others' responses).
 - [Week 2: Sapiens, Ch 9-13: Responses](https://redd.it/9et2h0)
 - [Week 2: Turing: Responses](https://redd.it/9et2jy)
 
-### Response questions For _Sapiens: A Brief History of Humankind_, Part
-III 
+### Response questions For _Sapiens: A Brief History of Humankind_, Part Three
 
 Choose any one (or more) of these questions to respond to, or make up
 your own question.
