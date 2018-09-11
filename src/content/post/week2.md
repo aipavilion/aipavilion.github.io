@@ -2,7 +2,7 @@
 date = "10 Sep 2018"
 draft = false
 title = "Week 2: Technology and Tyranny"
-slug = "week1"
+slug = "week2"
 +++
 
 <div class="printing"><a href="/docs/week2.pdf">PDF for Printing</a></div>
