@@ -62,21 +62,21 @@ your own question.
 
 **Chapter 9:**
 
-1. Harari writes about the unification of human cultures to the point
+Question 1: Harari writes about the unification of human cultures to the point
   where nearly all humans are closely interconnected. What is the most
   different culture you've experienced? How fundamentally different is
   it from your own?
 
 **Chapter 10:**
 
-2. Harari writes, "We accept the dollar in payment, because we trust
+Question 2: Harari writes, "We accept the dollar in payment, because we trust
 in God and the US secretary of the treasury.". What are we actually
 trusting the US secretary of the treasury to do?  (Hint: since 2003,
 we're also putting a lot of trust in a different cabinet secretary.)
 
 **Chapter 11:**
 
-3. "As the twenty-first century unfolds, nationalism is fast losing
+Question 3: "As the twenty-first century unfolds, nationalism is fast losing
 ground. More and more people believe that all of humankind is the
 legitimate source of political authority, rather than the members of a
 particular nationality, and that safeguarding human rights and
@@ -89,7 +89,7 @@ reason to believe in the longstanding trends away from nationalism?
 
 **Chapter 12:**
 
-4. Harari describes _Humanism_ as "a belief that Homo sapiens has a
+Question 4: Harari describes _Humanism_ as "a belief that Homo sapiens has a
 unique and sacred nature, which is fundamentally different from the
 nature of all other animals and of all other phenomena. Humanists
 believe that the unique nature of Homo sapiens is the most important
@@ -106,7 +106,7 @@ definition?
 
 **Chapter 13:**
 
-5. "In memetics, "Successful cultures are those that excel in
+Question 5: "In memetics, "Successful cultures are those that excel in
 reproducing their memes, irrespective of the costs and benefits to
 their human hosts."  Is there a better way to measure success of a
 culture?
