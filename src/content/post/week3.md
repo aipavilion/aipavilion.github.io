@@ -35,7 +35,7 @@ Before the next class (Monday, 24 September), you should read:
 
 - Neil DeGrasse Tyson, <a href="/docs/tyson.pdf"><em>Science's Endless Golden Age</em></a>.
 
-- Tim Urban ("Wait but why"), <a href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"><em>The AI Revolution: The Road to Superintelligence</em> (Part I). (Posted in 2015)
+- Tim Urban ("Wait but why"), <a href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"><em>The AI Revolution: The Road to Superintelligence</em></a> (Part I). (Posted in 2015)
 
 - (optional) John Maynard Keynes, <a href="/docs/keynes.pdf"><em>Economic Possibilities for our Grandchildren</em></a>, 1930.
 
@@ -48,11 +48,11 @@ your own question, and (3) post a (thoughtful and respectful) comment
 on someone else's fact check or response. (If you are the first one to
 do (1) and (2), you do not need to do (3).)
 
-- [Week 3: Sapiens, Ch 14-17: Fact Checks]()
-- [Week 3: Other Readings: Fact Checks]()
+- [Week 3: Sapiens, Ch 14-17: Fact Checks](https://redd.it/9gq3og)
+- [Week 3: Other Readings: Fact Checks](https://redd.it/9gq41s)
 
-- [Week 3: Sapiens, Ch 14-17: Responses]()
-- [Week 3: Other Readings: Responses]()
+- [Week 3: Sapiens, Ch 14-17: Responses](https://redd.it/9gq46t)
+- [Week 3: Other Readings: Responses](https://redd.it/9gq4bw)
 
 ### Response prompts for _Sapiens: A Brief History of Humankind_, Chapters 14-17
 
