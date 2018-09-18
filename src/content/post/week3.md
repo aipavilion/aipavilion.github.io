@@ -5,6 +5,8 @@ title = "Week 3: Money and Thinking"
 slug = "week3"
 +++
 
+<div class="printing"><a href="/docs/week3.pdf">PDF for Printing</a></div>
+
 ### Links
 
 [Loebner Prize (Turing Test)](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)  
