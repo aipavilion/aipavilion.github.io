@@ -120,6 +120,7 @@ just need more patience), neither of which seems very satisfying. Is
 there a better answer?
 
 **(Chapter 17) Question 5:** Discuss this quote:
+
 >  "The history of ethics is a sad tale of wonderful ideals that nobody
 can live up to. Most Christians did not imitate Christ, most Buddhists
 failed to follow Buddha, and most Confucians would have caused
