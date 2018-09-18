@@ -56,7 +56,7 @@ do (1) and (2), you do not need to do (3).)
 
 ### Response prompts for _Sapiens: A Brief History of Humankind_, Chapters 14-17
 
-(Chapter 14) Question 1: Harari writes, 
+**(Chapter 14) Question 1:** Harari writes, 
 
 > "All modern attempts to stabilise the sociopolitical order have had no choice but to rely on either of two unscientific methods:
 
@@ -76,7 +76,7 @@ common with the scientific study of Homo sapiens."
 This seems like a pretty bleak choice. Is there no other option? (or
 is one of these, less unpalatable than it seems in Harari's writing?)
 
-(Chapter 14) Question 2: Harari writes about Bacon's argument in
+**(Chapter 14) Question 2:** Harari writes about Bacon's argument in
 [_Novum Organum
 Scientiarum_](https://www.earlymoderntexts.com/assets/pdfs/bacon1620.pdf)
 that "knowledge is power". In founding the University, Jefferson
@@ -100,7 +100,7 @@ How much of an influence on Jefferson was Bacon? (This isn't really a
 response question, but something you might be interested in looking
 into.)
  
-(Chapter 16) Question 3: Harari quotes Adam Smith, "In the new
+**(Chapter 16) Question 3:** Harari quotes Adam Smith, "In the new
 capitalist creed, the first and most sacred commandment is: ‘The
 profits of production must be reinvested in increasing production.’"
 In Smith's time, businesses produced physical goods, and producing
@@ -109,7 +109,7 @@ mostly produce virtual goods, that can be produced in unlimited
 quantities without any production cost. Has this changed the
 capitalist creed?
 
-(Chapter 16) Question 4: Harari writes, "Much like the Agricultural
+**(Chapter 16) Question 4:** Harari writes, "Much like the Agricultural
 Revolution, so too the growth of the modern economy might turn out to
 be a colossal fraud.  The human species and the global economy may
 well keep growing, but many more individuals may live in hunger and
@@ -117,7 +117,7 @@ want." He offers two answers to this (there's no alternative, and we
 just need more patience), neither of which seems very satisfying. Is
 there a better answer?
 
-(Chapter 17) Question 5: 
+**(Chapter 17) Question 5:** Discuss this quote:
 >  "The history of ethics is a sad tale of wonderful ideals that nobody
 can live up to. Most Christians did not imitate Christ, most Buddhists
 failed to follow Buddha, and most Confucians would have caused
