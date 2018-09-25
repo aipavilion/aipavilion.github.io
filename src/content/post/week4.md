@@ -18,8 +18,7 @@ scope suitable for a 4-5 week effort is reasonable.
 
 You should post your paper idea on the [class
 subreddit](https://www.reddit.com/r/aipavilion/). Submit a new text
-post (or a link post that links to a PDF) that has a title `Paper:
-_your title` and contains:
+post (or a link post that links to a PDF) that has a title `Paper: your title` and contains:
 
 - One sentence: what is your paper about
 - 1-2 paragraphs that motivate your topic
