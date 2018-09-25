@@ -32,7 +32,7 @@ John Maynard Keynes, <a href="/docs/keynes.pdf"><em>Economic Possibilities for o
 <tr bgcolor="#FFF"><td><a href="/week5">Class 5</a> (1 October)</td><td>
 <b>Before class</b>: prepare to discuss ideas for paper; readings and responses, see <a href="/week4">week 4</a>.<br>
 <em>Sapiens</em>, Chapters 18-end; <a href="/docs/hallpike-review.pdf">Hallpike's review</a>;
-Tim Urban ("Wait but why"), <a href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"><em>The AI Revolution: The Road to Superintelligence</em></a> (Part 2), 2015.
+Tim Urban ("Wait but why"), <a href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"><em>The AI Revolution: The Road to Superintelligence</em></a> (Part 2), 2015.
 </td></tr>
 <tr bgcolor="#7F7"><td colspan=3 align="center">Fall Break</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week6">Class 6</a> (15 October)</td><td>
