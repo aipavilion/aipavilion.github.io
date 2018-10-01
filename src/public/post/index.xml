@@ -6,8 +6,45 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 5: Papers and Purpose</title>
+      <link>https://aipavilion.github.io/week4/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week4/</guid>
+      <description>
+
+&lt;h2 id=&#34;talk-this-friday&#34;&gt;Talk this Friday&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.johnchavens.com/&#34;&gt;John C. Havens&lt;/a&gt; will be speaking on Friday (Oct 5), 10-11:30am on &lt;em&gt;Humanities, Cultures and Ethics in the Era of AI&lt;/em&gt;, Wilson Hall 301. He is executive director of the IEEE project on &lt;a href=&#34;https://ethicsinaction.ieee.org/&#34;&gt;Ethics of Autonomous and Intelligent Systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Use &lt;a href=&#34;https://drive.google.com/open?id=1_JEklX4-NJ1lw4fm6WpJ9rwQK9kw5gPzYwOIfcGXF-A&#34;&gt;this link&lt;/a&gt; to RSVP (there is also a lunch following the talk).&lt;/p&gt;
+
+&lt;h2 id=&#34;interesting-law&#34;&gt;Interesting Law&lt;/h2&gt;
+
+&lt;p&gt;California passed a law about bots impersonating humans: &lt;a href=&#34;http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1001&#34;&gt;Senate Bill No. 1001: Bots: disclosure&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;(a) It shall be unlawful for any person to use a bot to communicate or interact with another person in California online, with the intent to mislead the other person about its artificial identity for the purpose of knowingly deceiving the person about the content of the communication in order to incentivize a purchase or sale of goods or services in a commercial transaction or to influence a vote in an election. A person using a bot shall not be liable under this section if the person discloses that it is a bot.&lt;br /&gt;
+(b) The disclosure required by this section shall be clear, conspicuous, and reasonably designed to inform persons with whom the bot communicates or interacts that it is a bot.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is interesting that it seems to be unlawful for a bot to
+intentionally confuse a human, but not for a bot to intentionally
+confuse another machine (which is a much more common problem in
+actuality today).&lt;/p&gt;
+
+&lt;h2 id=&#34;reading-assignment&#34;&gt;Reading Assignment&lt;/h2&gt;
+
+&lt;p&gt;Because of fall break, there is no meeting next week. The assignment
+for Oct 15 will be posted soon (I&amp;rsquo;ll send out email when it is).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 4: Hoverboards</title>
