@@ -2,7 +2,7 @@
 date = "01 Oct 2018"
 draft = false
 title = "Week 5: Papers and Purpose"
-slug = "week4"
+slug = "week5"
 +++
 
 ## Talk this Friday
