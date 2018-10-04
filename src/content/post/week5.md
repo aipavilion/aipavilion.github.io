@@ -25,6 +25,64 @@ actuality today).
 
 ## Reading Assignment
 
-Because of fall break, there is no meeting next week. The assignment
-for Oct 15 will be posted soon (I'll send out email when it is).
+Because of fall break, there is no meeting next week. The next major
+readings we will do are from Nick Bostrom's _Superintelligence_
+[[Amazon](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-dp-0198739834/dp/0198739834/)]. We
+won't read all of this, but will read many chapters. Tim Urban's
+("Wait but why"), <a
+href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"><em>The
+AI Revolution: The Road to Superintelligence</em></a> is largely based
+on this book, but the book goes into more depth on many points.
+
+By October 15, you should do at least one of these two things:
+
+**Option 1:** Watch [Nick Bostrom's talk at
+Google](https://www.youtube.com/watch?v=pywF6ZzsghI) (Sep 2014). (You
+should definitely watch the question and answer period at the end of
+the talk --- the first question is from Ray Kurzweil, the third is
+Peter Norvig.) and Read Chapter 3 of _Superintelligence_.
+
+**Option 2:** Read Chapters 1-4 of _Superintelligence_. 
+
+This is a (relatively) short reading assignment for the two weeks you
+have, to provide time to focus on your papers (the first draft of
+which is due on **Wednesday, October 17**.)
+
+## Responses
+
+Either (1) select at least one of the questions below and post a
+comment on the course forum, (2) respond to a comment someone else
+posted, or (3) post your own thoughts on something in either the talk
+or readings. [[Link to Post]](https://redd.it/9l7kkw)
+
+**1.** Bostrom talks and writes about using biological enhancement through
+genetic selection, but many people find such an idea distasteful at
+best or dystopian at worst. According to a 2004 poll reported in book,
+28% of Americans approved of embryo selection for "strength of
+intelligence", 68% for avoiding fatal childhood disease. A [more
+recent survey](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429433/)
+found 70% support for PGD selection for avoiding diseases fatal early
+in life or lifelong disability, 48% for diseases that manifest late in
+life, 21% for sex selection, 14.6% for physical traits, and 18.9% for
+personality traits. These responses suggest some kind of moral or
+practical difference between different types of embryo selection. Is
+there a way to decide what kinds of embryo selection are moral? What
+kinds should be disallowed, and what is the justification?
+
+**2.** Bostrom writes about an internet with "better support for
+deliberation, de-biasing, and judgment aggregation, might make large
+contributions to increasing the collective intelligence of
+humanity". Is this realistic? What would be necessary to move from
+what we have now to an internet that increases collective
+intelligence?
+
+**3.** Bostrom defines "superintelligence" as "intellects that greatly
+outperform the best current human minds across many very general
+cognitive domains", but doesn't provide any concrete or satisfying
+definition (in my view). A better definition might make specific
+claims about what problems a superintelligence could solve, or what
+behaviors it would have. Suggest a better definition (or make a case
+in support of Bostrom's definition).
+
+
 
