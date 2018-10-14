@@ -45,7 +45,7 @@ Bostrom, <em>Superintelligence: Paths, Dangers, Strategies</em>. (details to be 
 <tr bgcolor="#FFF"><td><a href="/week9">Class 9</a> (5 November)</td><td></td></tr>
 <tr bgcolor="#FF4"><td><b>Sunday, 11 November</b></td><td>Proposal for Final Paper Due</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week10">Class 10</a> (12 November)</td><td>
-[Allison Pugh](https://allisonpugh.weebly.com/) (UVA Professor of Sociology); discuss ideas for papers</td></tr>
+<a href="https://allisonpugh.weebly.com/">Allison Pugh</a> (UVA Professor of Sociology); discuss ideas for papers</td></tr>
 <tr bgcolor="#FFF"><td><a href="/week11">Class 11</a> (19 November)</td><td></tr>
 <tr bgcolor="#FF4"><td><b>Tuesday, 20 November</b></td><td>Draft of Final Paper Due</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week12">Class 12</a> (26 November)</td><td></td></tr>
