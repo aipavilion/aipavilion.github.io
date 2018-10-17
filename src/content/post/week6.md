@@ -48,7 +48,7 @@ Everyone should (either individually, or in coordination with others in your epi
    - if the technology imagined is developed, should it be allowed?
    - what could we do to increase the likelihood the imagined technology is used for the greater good of humanity, not to create a dystopian future?
 
-#### Group 1: Cal, Lauren A., Olivia, Nathanael, Stella
+#### Group 1: Cal, Emily, Lauren A., Olivia, Nathanael, Stella
 
 Episode: "Be Right Back", Series 2, Episode 1  
 Paper: Tabea Tietz, Francesca Pichierri, Maria Koutraki, Dara Hallinan, Franziska Boehm, and Harald Sack. [_Digital Zombies - the Reanimation of our Digital Selves_](https://aipavilion.github.io/docs/berightback.pdf)  
@@ -58,7 +58,7 @@ Optional second paper: Martino Mensio, Giuseppe Rizzo, Maurizio Morisio. [_The R
 Episode: "Nosedive", Series 3 Episode 1  
 Paper: Harshvardhan J. Pandit, Dave Lewis. [_Ease and Ethics of User Profiling in Black Mirror_](https://aipavilion.github.io/docs/nosedive.pdf)
 
-#### Group 3: Emily, Erich, Fiona, Megan, Mira
+#### Group 3: Erich, Fiona, Megan, Mira
 Episode: "Hang the DJ", Series 4 Episode 4  
 Paper: (couldn't find one closely related; if you can, please read that instead, otherwise read this one) Diego Sempreboni, Luca Vigano. [_MMM: May I Mine Your Mind?_](https://aipavilion.github.io/docs/mmm.pdf)
 
