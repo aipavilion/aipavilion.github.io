@@ -48,7 +48,7 @@ Everyone should (either individually, or in coordination with others in your epi
    - if the technology imagined is developed, should it be allowed?
    - what could we do to increase the likelihood the imagined technology is used for the greater good of humanity, not to create a dystopian future?
 
-#### Group 1: Cal, Lauren A., Olivia, Megan, Nathanael, Stella
+#### Group 1: Cal, Lauren A., Olivia, Nathanael, Stella
 
 Episode: "Be Right Back", Series 2, Episode 1  
 Paper: Tabea Tietz, Francesca Pichierri, Maria Koutraki, Dara Hallinan, Franziska Boehm, and Harald Sack. [_Digital Zombies - the Reanimation of our Digital Selves_](https://aipavilion.github.io/docs/berightback.pdf)  
