@@ -6,8 +6,82 @@
     <description>Recent content on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 6: Quadrants of Optimism</title>
+      <link>https://aipavilion.github.io/week6/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week6/</guid>
+      <description>
+
+&lt;h2 id=&#34;paper-draft&#34;&gt;Paper Draft&lt;/h2&gt;
+
+&lt;p&gt;Your First Paper Drafts are due tomorrow (Wednesday). Please submit your paper first drafts by sending an email with a PDF file attached to &lt;a href=&#34;evans@virginia.edu&#34;&gt;me&lt;/a&gt;, with a subject line &lt;code&gt;[AI Pavilion] &amp;lt;your paper title&amp;gt;&lt;/code&gt;. I&amp;rsquo;ll send a quick ack message so you know I received it. You don&amp;rsquo;t need to post your paper draft publicly (on the class reddit) unless you want to, but are welcome do to so also if you want
+to share it with the class/world at this stage.&lt;/p&gt;
+
+&lt;p&gt;If you would like to get quick feedback on your paper at my office hours Thursday morning (9-10:30am), include a note in your email saying this and I&amp;rsquo;ll prioritize reading your paper.&lt;/p&gt;
+
+&lt;h2 id=&#34;assignment-for-next-class&#34;&gt;Assignment for Next Class&lt;/h2&gt;
+
+&lt;p&gt;For the next class, we&amp;rsquo;ll focus on &amp;ldquo;Black Mirror&amp;rdquo;, a British TV series
+whose episodes explore (usually dystopian) outcomes of possible future
+technologies.&lt;/p&gt;
+
+&lt;p&gt;Our two &amp;ldquo;Black Mirror&amp;rdquo; experts have suggested three episodes (thanks
+Erich and Emily!), and everyone will be expected to watch at least one
+of them and read a short paper related to it from the &lt;a href=&#34;https://kmitd.github.io/recoding-black-mirror/rbm-2018.html&#34;&gt;Recoding Black
+Mirror
+Workshop&lt;/a&gt;
+that was held at &lt;a href=&#34;https://www2018.thewebconf.org/&#34;&gt;WWW 2018&lt;/a&gt; (for two
+of the episodes, there are closely related papers).&lt;/p&gt;
+
+&lt;p&gt;To ensure coverage across the three selected episodes, I have
+arbitrarily (* not completely arbitrarily - if there was an obvious
+connection between your paper topic and one of the episodes you should
+be in the right group for that topic) put you in three groups - but,
+the groups should be considered &amp;ldquo;default&amp;rdquo; choices; if you want to
+switch to a different episode from the one you&amp;rsquo;ve been assigned,
+that&amp;rsquo;s fine. The episodes are all available through Netflix - I
+believe most of you have access to this, but if you need help let me
+know. Its fine if you watch the episode alone, but probably more fun
+if you can get together with others in your group to watch it
+together. I&amp;rsquo;ll leave it up to you to try and coordinate this (feel
+free to post on the class subreddit if that&amp;rsquo;s helpful).&lt;/p&gt;
+
+&lt;h4 id=&#34;group-1-cal-lauren-a-olivia-megan-nathanael-stella&#34;&gt;Group 1: Cal, Lauren A., Olivia, Megan, Nathanael, Stella&lt;/h4&gt;
+
+&lt;p&gt;Episode: &amp;ldquo;Be Right Back&amp;rdquo;, Series 2, Episode 1&lt;br /&gt;
+Paper: Tabea Tietz, Francesca Pichierri, Maria Koutraki, Dara Hallinan, Franziska Boehm, and Harald Sack. &lt;a href=&#34;https://aipavilion.github.io/docs/berightback.pdf&#34;&gt;&lt;em&gt;Digital Zombies - the Reanimation of our Digital Selves&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+Optional second paper: Martino Mensio, Giuseppe Rizzo, Maurizio Morisio. &lt;a href=&#34;https://aipavilion.github.io/docs/berightback2.pdf&#34;&gt;&lt;em&gt;The Rise of Emotion-aware Conversational Agents: Threats in Digital Emotions&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;group-2-jacob-kavya-lauren-h-maria-rohit&#34;&gt;Group 2: Jacob, Kavya, Lauren H., Maria, Rohit&lt;/h4&gt;
+
+&lt;p&gt;Episode: &amp;ldquo;Nosedive&amp;rdquo;, Series 3 Episode 1&lt;br /&gt;
+Paper: Harshvardhan J. Pandit, Dave Lewis. &lt;a href=&#34;https://aipavilion.github.io/docs/nosedive.pdf&#34;&gt;&lt;em&gt;Ease and Ethics of User Profiling in Black Mirror&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;group-3-emily-erich-fiona-megan-mira&#34;&gt;Group 3: Emily, Erich, Fiona, Megan, Mira&lt;/h4&gt;
+
+&lt;p&gt;Episode: &amp;ldquo;Hang the DJ&amp;rdquo;, Series 4 Episode 4&lt;br /&gt;
+Paper: (couldn&amp;rsquo;t find one closely related; if you can, please read that instead, otherwise read this one) Diego Sempreboni, Luca Vigano. &lt;a href=&#34;https://aipavilion.github.io/docs/mmm.pdf&#34;&gt;&lt;em&gt;MMM: May I Mine Your Mind?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For all groups, you should:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Come to class Monday prepared to give a summary of your episode to the class; if you want to include showing a few short scenes from it, that&amp;rsquo;s fine and encouraged!.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Think about these questions (and use the reading to help):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;how realistic is the technology that is the basis for the episode?&lt;/li&gt;
+&lt;li&gt;if the technology imagined is developed, should it be allowed?&lt;/li&gt;
+&lt;li&gt;what could we do to increase the likelihood the imagined technology is used for the greater good of humanity, not to create a dystopian future?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 5: Papers and Purpose</title>
