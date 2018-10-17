@@ -39,7 +39,7 @@ if you can get together with others in your group to watch it
 together. I'll leave it up to you to try and coordinate this (feel
 free to post on the class subreddit if that's helpful).
 
-For all groups, you should:
+Everyone should (either individually, or in coordination with others in your episode group):
 
 1. Come to class Monday prepared to give a summary of your episode to the class; if you want to include showing a few short scenes from it, that's fine and encouraged!.
 
