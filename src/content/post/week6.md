@@ -7,7 +7,7 @@ slug = "week6"
 
 ## Paper Draft
 
-Your First Paper Drafts are due tomorrow (Wednesday). Please submit your paper first drafts by sending an email with a PDF file attached to [me](evans@virginia.edu), with a subject line `[AI Pavilion] <your paper title>`. I'll send a quick ack message so you know I received it. You don't need to post your paper draft publicly (on the class reddit) unless you want to, but are welcome do to so also if you want
+Your First Paper Drafts are due tomorrow (Wednesday). Please submit your paper first drafts by sending an email with a PDF file attached to [me](mailto:evans@virginia.edu), with a subject line `[AI Pavilion] <your paper title>`. I'll send a quick ack message so you know I received it. You don't need to post your paper draft publicly (on the class reddit) unless you want to, but are welcome do to so also if you want
 to share it with the class/world at this stage.
 
 If you would like to get quick feedback on your paper at my office hours Thursday morning (9-10:30am), include a note in your email saying this and I'll prioritize reading your paper.
