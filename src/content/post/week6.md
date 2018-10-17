@@ -39,6 +39,15 @@ if you can get together with others in your group to watch it
 together. I'll leave it up to you to try and coordinate this (feel
 free to post on the class subreddit if that's helpful).
 
+For all groups, you should:
+
+1. Come to class Monday prepared to give a summary of your episode to the class; if you want to include showing a few short scenes from it, that's fine and encouraged!.
+
+2. Think about these questions (and use the reading to help): 
+   - how realistic is the technology that is the basis for the episode?
+   - if the technology imagined is developed, should it be allowed?
+   - what could we do to increase the likelihood the imagined technology is used for the greater good of humanity, not to create a dystopian future?
+
 #### Group 1: Cal, Lauren A., Olivia, Megan, Nathanael, Stella
 
 Episode: "Be Right Back", Series 2, Episode 1  
@@ -52,15 +61,5 @@ Paper: Harshvardhan J. Pandit, Dave Lewis. [_Ease and Ethics of User Profiling i
 #### Group 3: Emily, Erich, Fiona, Megan, Mira
 Episode: "Hang the DJ", Series 4 Episode 4  
 Paper: (couldn't find one closely related; if you can, please read that instead, otherwise read this one) Diego Sempreboni, Luca Vigano. [_MMM: May I Mine Your Mind?_](https://aipavilion.github.io/docs/mmm.pdf)
-
-For all groups, you should:
-
-1. Come to class Monday prepared to give a summary of your episode to the class; if you want to include showing a few short scenes from it, that's fine and encouraged!.
-
-2. Think about these questions (and use the reading to help): 
-   - how realistic is the technology that is the basis for the episode?
-   - if the technology imagined is developed, should it be allowed?
-   - what could we do to increase the likelihood the imagined technology is used for the greater good of humanity, not to create a dystopian future?
-
 
 
