@@ -36,10 +36,10 @@ Tim Urban ("Wait but why"), <a href="https://waitbutwhy.com/2015/01/artificial-i
 </td></tr>
 <tr bgcolor="#7F7"><td colspan=3 align="center">Fall Break</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week6">Class 6</a> (15 October)</td><td>
-Bostrom, <em>Superintelligence: Paths, Dangers, Strategies</em>. (details to be added)
+Bostrom, <em>Superintelligence: Paths, Dangers, Strategies</em>, Chapters 1-4.
 </td></tr>
 <tr bgcolor="#FF4"><td><b>Wednesday, 17 October</b></td><td>First Paper Draft Due</td></tr>
-<tr bgcolor="#FFF"><td><a href="/week7">Class 7</a> (22 October)</td><td></td></tr>
+<tr bgcolor="#FFF"><td><a href="/week7">Class 7</a> (22 October)</td><td>Black Mirror (and writing advice)</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week8">Class 8</a> (29 October)</td><td></td></tr>
 <tr bgcolor="#FF4"><td><b>Thursday, 1 November (4:59pm)</b></td><td>First Paper Final Due</td></tr>
 <tr bgcolor="#FFF"><td><a href="/week9">Class 9</a> (5 November)</td><td></td></tr>
