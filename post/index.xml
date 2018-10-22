@@ -6,8 +6,63 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 7: Black Mirror</title>
+      <link>https://aipavilion.github.io/week7/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week7/</guid>
+      <description>
+
+&lt;h1 id=&#34;writing-advice&#34;&gt;Writing Advice&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Write with a purpose (even if your real purpose is to satisfy a course requirement, you should write as though you have a real purpose, and hopefully you do!)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Examples of reasonable purposes for writing:
+   - Persuade the reader to do something they would not do otherwise
+   - Convince the reader that something controversial and non-obvious is true
+   - Make the reader understand something interesting and important that they don’t already known
+   - Entertain the reader&lt;/p&gt;
+
+&lt;p&gt;Note that all of these purposes assume a &lt;em&gt;reader&lt;/em&gt; – you should have a clear idea who the intended audience is for your writing, and write with them in mind. The purpose of your writing should be stated explicitly and clearly so the reader knows why you want them to read it. Usually, this is done at the end of the abstract (or the first paragraph if there is no abstract). It should be a sentence like, &amp;ldquo;The goal of this article is to &amp;hellip;&amp;rdquo;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Use section headers and divisions with meaningful labels to break up your text. You shouldn’t have more than a page without some clear header or at least a paragraph tag to make it clear what it is about.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tell stories, not lists. Unlike this document, a well written essay should follow a clear story. Each paragraph should be connected to the previous one, and all of them should serve the purpose. You shouldn’t have lists of disconnected things without a very good reason.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How and when to use quotes and references:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Most definitely, don’t plagarize! But, don’t use quotes to avoid plagarizing – write in a way that is not plagarizing without needing quotes.&lt;/li&gt;
+&lt;li&gt;Use a quote when the person/organization you are quoting matters, should be introduced with their identify: e.g., Andrew Ng dismissed the risks of AI, stating that &lt;a href=&#34;https://www.theregister.co.uk/2015/03/19/andrew_ng_baidu_ai/&#34;&gt;&amp;ldquo;I don’t work on not turning AI evil today for the same reason I don&amp;rsquo;t worry about the problem of overpopulation on the planet Mars.&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Use references to provide sources for materials – seminal sources when possible (and when that is what you are writing about), not secondary ones (other people’s summaries).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Don’t use a complex word when a simple one would do: &amp;ldquo;utilize&amp;rdquo; =&amp;gt; &amp;ldquo;use&amp;rdquo;, &amp;ldquo;advancements&amp;rdquo; =&amp;gt; &amp;ldquo;advances&amp;rdquo;, etc.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;paper&#34;&gt;Paper&lt;/h3&gt;
+
+&lt;p&gt;The &amp;ldquo;final&amp;rdquo; version of your first paper is due by 4:59pm on Thursday,
+November 1 (note that this is extended from the original deadline that
+was October 30).&lt;/p&gt;
+
+&lt;p&gt;You can submit the paper by email with a PDF attachment and subject line &lt;code&gt;[AI Pavilion] _Paper Title_&lt;/code&gt;. The email should also include answers to each of these questions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is the purpose of your paper? (one sentence answer)&lt;/li&gt;
+&lt;li&gt;Who is your intended audience? (one sentence answer)&lt;/li&gt;
+&lt;li&gt;If you decided not to follow advice from the first draft, explain why. (It is okay to not follow advice, but you need to make it clear that you understood the advice and justify why you didn&amp;rsquo;t follow it.)&lt;/li&gt;
+&lt;li&gt;Do you want to continue with this topic, or start on a new topic for the &amp;ldquo;final&amp;rdquo; paper? (Yes/no answer is fine, but feel free to explain more if helpful)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 6: Quadrants of Optimism</title>
