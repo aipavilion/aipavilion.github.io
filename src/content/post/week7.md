@@ -7,7 +7,7 @@ slug = "week7"
 
 # Writing Advice
 
-**1. Prupose:** Write with a purpose (even if your real purpose is to satisfy a course requirement, you should write as though you have a real purpose, and hopefully you do!)
+**1. Purpose:** Write with a purpose (even if your real purpose is to satisfy a course requirement, you should write as though you have a real purpose, and hopefully you do!)
 
   Examples of reasonable purposes for writing:
 
@@ -27,10 +27,7 @@ slug = "week7"
    -  Use a quote when the person/organization you are quoting matters, should be introduced with their identify: e.g., Andrew Ng dismissed the risks of AI, stating that ["I don’t work on not turning AI evil today for the same reason I don't worry about the problem of overpopulation on the planet Mars."](https://www.theregister.co.uk/2015/03/19/andrew_ng_baidu_ai/)
    -  Use references to provide sources for materials – seminal sources when possible (and when that is what you are writing about), not secondary ones (other people’s summaries).
 
-**5. Write simply and directly:** Don’t use a complex word when a
-  simple one would do: "utilize" => "use", "advancements" =>
-  "advances", etc. Don't use overly complex sentence structures
-  without a good reason.
+**5. Write simply and directly:** Don’t use a complex word when a simple one would do: "utilize" => "use", "advancements" => "advances", etc. Don't use overly complex sentence structures without a good reason.
 
 ### Paper 
 
