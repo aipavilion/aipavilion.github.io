@@ -9,14 +9,14 @@ slug = "week7"
 
 1. Write with a purpose (even if your real purpose is to satisfy a course requirement, you should write as though you have a real purpose, and hopefully you do!)
 
-    Examples of reasonable purposes for writing:
+  Examples of reasonable purposes for writing:
 
-    - Persuade the reader to do something they would not do otherwise
-    - Convince the reader that something controversial and non-obvious is true
-    - Make the reader understand something interesting and important that they don’t already known
-    - Entertain the reader
+  - Persuade the reader to do something they would not do otherwise
+  - Convince the reader that something controversial and non-obvious is true
+  - Make the reader understand something interesting and important that they don’t already known
+  - Entertain the reader
 
-    Note that all of these purposes assume a _reader_ – you should have a clear idea who the intended audience is for your writing, and write with them in mind. The purpose of your writing should be stated explicitly and clearly so the reader knows why you want them to read it. Usually, this is done at the end of the abstract (or the first paragraph if there is no abstract). It should be a sentence like, "The goal of this article is to ...".
+  Note that all of these purposes assume a _reader_ – you should have a clear idea who the intended audience is for your writing, and write with them in mind. The purpose of your writing should be stated explicitly and clearly so the reader knows why you want them to read it. Usually, this is done at the end of the abstract (or the first paragraph if there is no abstract). It should be a sentence like, "The goal of this article is to ...".
 
 2. Use section headers and divisions with meaningful labels to break up your text. You shouldn’t have more than a page without some clear header or at least a paragraph tag to make it clear what it is about.
 
