@@ -5,6 +5,29 @@ title = "Week 7: Black Mirror"
 slug = "week7"
 +++
 
+# Assignment for this week
+
+Mainly, you should focus on developing your papers this week, so the
+reading assignment is short but covers many interesting topics for
+class discussion.  Before class on Oct 29, you should read:
+
+- Chapter 9: _The Control Problem_ from Nick Bostrom's _Superintelligence_.
+
+- [Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World](https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/), Wired Magazine, November 2016.
+
+Pay particular attention to these quotes, and how they relate to Bostrom's chapter:
+
+> OBAMA: ... Then there could be an algorithm that said, "Go penetrate the nuclear codes and figure out how to launch some missiles." If that's its only job, if it's self-teaching and it's just a really effective algorithm, then you've got problems. I think my directive to my national security team is, don't worry as much yet about machines taking over the world. Worry about the capacity of either nonstate actors or hostile actors to penetrate systems, and in that sense it is not conceptually different than a lot of the cybersecurity work we're doing. It just means that we're gonna have to be better, because those who might deploy these systems are going to be a lot better now.
+
+> ... 
+
+> ITO: I generally agree. The only caveat is that there are a few people who believe that there is a fairly high-percentage chance that a generalized AI will happen in the next 10 years. But the way I look at it is that in order for that to happen, we’re going to need a dozen or two different breakthroughs. So you can monitor when you think these breakthroughs will happen.
+
+> OBAMA: And you just have to have somebody close to the power cord. [Laughs.] Right when you see it about to happen, you gotta yank that electricity out of the wall, man.
+
+
+**Office hours delayed:** I will start my office hours this week late on Thursday (usually 9-10:30am); I should be there by 9:30am. If you have questions about the comments on your paper draft, please stop by then or another time. You can use [_http://davidevans.youcanbook.me_](http://davidevans.youcanbook.me) to schedule a meeting.
+
 # Writing Advice
 
 **1. Purpose:** Write with a purpose (even if your real purpose is to satisfy a course requirement, you should write as though you have a real purpose, and hopefully you do!)
