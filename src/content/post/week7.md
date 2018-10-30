@@ -13,8 +13,8 @@ class discussion.  Before class on Oct 29, you should read:
 
 - Chapter 9: _The Control Problem_ from Nick Bostrom's _Superintelligence_.
 
-- [Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World](https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/), Wired Magazine, November 2016.
-
+- [Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World](https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/), Wired Magazine, November 2016. (Read at least up to the quote below.)
+ 
 Pay particular attention to these quotes, and how they relate to Bostrom's chapter:
 
 > OBAMA: ... Then there could be an algorithm that said, "Go penetrate the nuclear codes and figure out how to launch some missiles." If that's its only job, if it's self-teaching and it's just a really effective algorithm, then you've got problems. I think my directive to my national security team is, don't worry as much yet about machines taking over the world. Worry about the capacity of either nonstate actors or hostile actors to penetrate systems, and in that sense it is not conceptually different than a lot of the cybersecurity work we're doing. It just means that we're gonna have to be better, because those who might deploy these systems are going to be a lot better now.

@@ -6,8 +6,39 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 8: AI Control Problem</title>
+      <link>https://aipavilion.github.io/week8/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week8/</guid>
+      <description>
+
+&lt;h2 id=&#34;schedule-updates&#34;&gt;Schedule Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Office Hours this week:&lt;/strong&gt; I will not be able to hold my Thursday morning office hours this week, but will be available later in the day Thursday. I should be around most of the afternoon, so feel free to drop by, or email me to arrange a time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper 1&lt;/strong&gt; is due &lt;strong&gt;Thursday, 1 November&lt;/strong&gt; at &lt;strong&gt;4:59pm&lt;/strong&gt;. (This is a
+  strict deadline since I need to print the papers before leaving on a
+  trip.). Please remember to follow the &lt;a href=&#34;https://aipavilion.github.io/week7&#34;&gt;directions posted last
+  week&lt;/a&gt; about what to include in your email.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Short talks:&lt;/strong&gt; You should prepare a five minute presentation about your paper topic, to present in class next Monday (5 November).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Happy Halloween!&lt;/strong&gt; Beware of trick-xor-treaters  who are impersonating valid trickers.&lt;/p&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/evansuva/ai-control-problem&#34;&gt;Slides from today&amp;rsquo;s class&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://poloclub.github.io/ganlab/&#34;&gt;GAN Lab&lt;/a&gt; (in-browser play with Generative Adversarial Networks)&lt;/p&gt;
+
+&lt;p&gt;The Verge. &lt;a href=&#34;https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans&#34;&gt;&lt;em&gt;How three French students used borrowed code to put the first AI portrait in Christie&amp;rsquo;s&lt;/em&gt;&lt;/a&gt;. 23 October 2018.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 7: Black Mirror</title>
@@ -26,7 +57,7 @@ class discussion.  Before class on Oct 29, you should read:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Chapter 9: &lt;em&gt;The Control Problem&lt;/em&gt; from Nick Bostrom&amp;rsquo;s &lt;em&gt;Superintelligence&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/&#34;&gt;Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World&lt;/a&gt;, Wired Magazine, November 2016.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/&#34;&gt;Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World&lt;/a&gt;, Wired Magazine, November 2016. (Read at least up to the quote below.)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Pay particular attention to these quotes, and how they relate to Bostrom&amp;rsquo;s chapter:&lt;/p&gt;
