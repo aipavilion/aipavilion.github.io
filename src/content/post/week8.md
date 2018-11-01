@@ -21,7 +21,10 @@ slug = "week8"
 
 ## Links
 
+<center>
+<script async class="speakerdeck-embed" data-id="d9156e1423784f5fa54e49f7e7a01515" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script><Br>
 [Slides from today's class](https://speakerdeck.com/evansuva/ai-control-problem)
+</center>
 
 [GAN Lab](https://poloclub.github.io/ganlab/) (in-browser play with Generative Adversarial Networks)  
 
