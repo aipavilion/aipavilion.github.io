@@ -27,7 +27,7 @@ email me for a PDF), and post your responses
 [here](https://redd.it/9ul2bz) by Sunday, 4 November.
 
 You should either post your own question or comment on the paper,
-respond to someone elses comment, or respond to one of these
+respond to someone else's comment, or respond to one of these
 questions:
 
 - The paper considers three connective labor relationships: doctor-patient, teacher-student, and minister-congregant. Identify another connective labor relationship and discuss how the ideas in the paper might (or might not) apply to it.
