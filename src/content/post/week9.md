@@ -24,7 +24,7 @@ open).
 Read Allison Pugh's paper distributed in class, _Of Seeing and Being
 Seen: What Humans Do for Each Other_ (if you lost the paper copy,
 email me for a PDF), and post your responses
-[here](https://redd.it/9ul2bz) by Sunday, 4 November.
+[here](https://redd.it/9ul2bz) by Sunday, 11 November.
 
 You should either post your own question or comment on the paper,
 respond to someone else's comment, or respond to one of these
