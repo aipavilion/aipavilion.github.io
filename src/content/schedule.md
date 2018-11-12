@@ -42,12 +42,12 @@ Bostrom, <em>Superintelligence: Paths, Dangers, Strategies</em>, Chapters 1-4.
 <tr bgcolor="#FFF"><td><a href="/week7">Class 7</a> (22 October)</td><td>Black Mirror (and writing advice)</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week8">Class 8</a> (29 October)</td><td>AI Control</td></tr>
 <tr bgcolor="#FF4"><td><b>Thursday, 1 November (4:59pm)</b></td><td>First Paper Final Due</td></tr>
-<tr bgcolor="#FFF"><td><a href="/week9">Class 9</a> (5 November)</td><td></td></tr>
-<tr bgcolor="#FF4"><td><b>Sunday, 11 November</b></td><td>Proposal for Final Paper Due</td></tr>
+<tr bgcolor="#FFF"><td><a href="/week9">Class 9</a> (5 November)</td><td>Papers Workshop</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week10">Class 10</a> (12 November)</td><td>
 <a href="https://allisonpugh.weebly.com/">Allison Pugh</a> (UVA Professor of Sociology); discuss ideas for papers</td></tr>
+<tr bgcolor="#FF4"><td><b>Wednesday, 14 November</b></td><td>Proposal for Final Paper Due</td></tr>
 <tr bgcolor="#FFF"><td><a href="/week11">Class 11</a> (19 November)</td><td></tr>
-<tr bgcolor="#FF4"><td><b>Tuesday, 20 November</b></td><td>Draft of Final Paper Due</td></tr>
+<tr bgcolor="#FF4"><td><b>Tuesday, 20 November</b></td><td>Paper Update Due</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week12">Class 12</a> (26 November)</td><td></td></tr>
 <tr bgcolor="#FFF"><td><a href="/week13">Class 13</a> (3 December)</td><td></td></tr>
 <tr bgcolor="#FF4"><td><b>Monday, 10 December</b></td><td>Final Paper Due</td></tr>
