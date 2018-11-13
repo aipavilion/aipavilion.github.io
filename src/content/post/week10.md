@@ -1,7 +1,7 @@
 +++
 date = "12 Nov 2018"
 draft = false
-title = "Week 10: Connective Labor"
+title = "Week 10: Security"
 slug = "week10"
 +++
 
