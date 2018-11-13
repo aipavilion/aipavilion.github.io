@@ -6,8 +6,44 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 10: Connective Labor</title>
+      <link>https://aipavilion.github.io/week9/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week9/</guid>
+      <description>
+
+&lt;h2 id=&#34;reading-assignment&#34;&gt;Reading Assignment&lt;/h2&gt;
+
+&lt;p&gt;Next week, we&amp;rsquo;ll talk about security and malicious uses of AI.&lt;/p&gt;
+
+&lt;p&gt;There are two readings. If you did the discussion post for last week,
+you should select &lt;strong&gt;either one of these two readings&lt;/strong&gt;; if not, you
+should read both of them (you&amp;rsquo;ll get a confirmation email from me if
+you are in this group).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Daniel Geer. &lt;a href=&#34;https://www.hoover.org/sites/default/files/research/docs/geer_webreadypdfupdated2.pdf&#34;&gt;&lt;em&gt;A Rubicon&lt;/em&gt;&lt;/a&gt;. Hoover Institution, Aegis Paper No 1801. February 2018.  [&lt;a href=&#34;https://redd.it/9wr59x&#34;&gt;Discussion&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Miles Brundage, et al. &lt;a href=&#34;https://aipavilion.github.io/docs/malicious.pdf&#34;&gt;&lt;em&gt;The Malicious Use of Artificial
+Intelligence: Forecasting, Prevention, and
+Mitigation&lt;/em&gt;&lt;/a&gt;. February 2018.  (This looks long,
+but is low-density format. Read at least through the end of Section&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It is not necessary to read their Interventions and the later
+sections, although you should think about what recommendations you
+would make.) [&lt;a href=&#34;https://redd.it/9wr5iw&#34;&gt;Discussion&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the form, &lt;strong&gt;post and idea for a discussion point&lt;/strong&gt; based on the
+reading. There are no specific prompts for this, it can be anything
+that strikes you as interesting to discuss from the reading.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 9: Papers Workshop</title>
