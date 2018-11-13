@@ -2,7 +2,7 @@
 date = "12 Nov 2018"
 draft = false
 title = "Week 10: Connective Labor"
-slug = "week9"
+slug = "week10"
 +++
 
 ## Reading Assignment
