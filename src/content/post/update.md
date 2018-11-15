@@ -5,8 +5,7 @@ title = "Paper Updates"
 +++
 
 Paper updates are due next week Tuesday, November 20. For everyone,
-you should send an email with subject line `[AI Pavillion] Paper
-Update: <your title>`. What is expected in the update depends on
+you should send an email with subject line `[AI Pavillion] Paper Update: <your title>`. What is expected in the update depends on
 whether you are continuing with your first paper topic for the final
 paper, or you are starting a new topic.
 
