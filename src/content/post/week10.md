@@ -17,11 +17,7 @@ you are in this group).
 - Daniel Geer. [_A Rubicon_](https://www.hoover.org/sites/default/files/research/docs/geer_webreadypdfupdated2.pdf). Hoover Institution, Aegis Paper No 1801. February 2018.  [[Discussion](https://redd.it/9wr59x)]
 
 - Miles Brundage, et al. [_The Malicious Use of Artificial
-Intelligence: Forecasting, Prevention, and
-Mitigation_](/docs/malicious.pdf). February 2018.  (This looks long,
-but is low-density format. Read at least through the end of Section
-3. It is not necessary to read their Interventions and the later
-sections, although you should think about what recommendations you
+Intelligence: Forecasting, Prevention, and Mitigation_](/docs/malicious.pdf). February 2018.  (This looks long, but is low-density format. Read at least through the end of Section 3 (Security Domains). It is not necessary to read their Interventions and the later sections, although you should think about what recommendations you
 would make.) [[Discussion](https://redd.it/9wr5iw)]
 
 In the form, **post and idea for a discussion point** based on the
