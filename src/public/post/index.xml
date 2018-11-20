@@ -6,8 +6,39 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 11: Fairness</title>
+      <link>https://aipavilion.github.io/week11/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week11/</guid>
+      <description>
+
+&lt;h2 id=&#34;reading-viewing-assignment&#34;&gt;Reading/Viewing Assignment&lt;/h2&gt;
+
+&lt;p&gt;Next week, we&amp;rsquo;ll talk about algorithmic fairness.&lt;/p&gt;
+
+&lt;p&gt;There are lots of very interesting writings on this, but I want to
+keep the required reading over Thanksgiving break to a minimum.&lt;/p&gt;
+
+&lt;p&gt;For the required reading, you can select one of these two options:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Watch Christopher Moore&amp;rsquo;s talk, &lt;a href=&#34;https://www.youtube.com/watch?v=Sg2jtEY6qms&amp;amp;t=5s&#34;&gt;&lt;em&gt;Data, Algorithms, Justice, and Fairness&lt;/em&gt;&lt;/a&gt; (Ulam Lecture at Santa Fe Institute, Oct 2018). (You can skip the excellent but long introduction by &lt;a href=&#34;https://youtu.be/Sg2jtEY6qms?t=737&#34;&gt;starting at 12:19&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read &lt;a href=&#34;https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&#34;&gt;&lt;em&gt;Machine Bias&lt;/em&gt;&lt;/a&gt;, ProPublica, 23 May 2016, and &lt;a href=&#34;https://www.documentcloud.org/documents/2998391-ProPublica-Commentary-Final-070616.html&#34;&gt;Northpointe&amp;rsquo;s response&lt;/a&gt; (with commentary from ProPublica).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please post something in the &lt;a href=&#34;https://redd.it/9ynlx3&#34;&gt;course
+subreddit&lt;/a&gt; to spark discussion on this
+topic. It could be a link to a news article on algorithmic fairness
+with a brief comment on it, or a question or comment about the reading
+(or talk).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper Updates</title>
