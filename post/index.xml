@@ -6,8 +6,51 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 12: Fairness</title>
+      <link>https://aipavilion.github.io/week12/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week12/</guid>
+      <description>
+
+&lt;h2 id=&#34;follow-up&#34;&gt;Follow-up&lt;/h2&gt;
+
+&lt;p&gt;Here are a few links to follow-up from the today&amp;rsquo;s discussions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Rohit asked about the Harvard admissions lawsuit. There are two
+expert reports from the case: &lt;a href=&#34;https://aipavilion.github.io/docs/Arcidiacono-Expert-Report.pdf&#34;&gt;Peter Arcidiacono&amp;rsquo;s (for &amp;ldquo;Students for
+Fair Admissions&amp;rdquo;)&lt;/a&gt; and &lt;a href=&#34;https://aipavilion.github.io/docs/harvard-report.pdf&#34;&gt;David
+Card&amp;rsquo;s (for Harvard)&lt;/a&gt;. They are both long
+reads, and with some parts redacted, mostly about Harvard&amp;rsquo;s &amp;ldquo;Dean&amp;rsquo;s
+List&amp;rdquo; for taking care of high donors.  Unfortunately (or prehaps
+responsibly), the raw data for the analysis is not publicly available,
+but there is a lot of information in the reports.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Here is the article I mentioned: Ta-Nehisi Coates. &lt;a href=&#34;https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/&#34;&gt;&lt;em&gt;The Case for
+Reparations&lt;/em&gt;&lt;/a&gt;,
+The Atlantic, June 2014. (Its not about AI fairness at all, but
+provides a lot of historical context for where we are now as a
+society, and something I would encourage everyone to read over
+winter break.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;next-final-meeting&#34;&gt;Next (Final) meeting&lt;/h2&gt;
+
+&lt;p&gt;Next week is our final seminar meeting. Everyone should be prepared to
+give a short talk (no more than 3 minutes long) on your paper
+project. Unlike previous ones, I would encourage you to prepare slides
+for this, but you should not use more than 4 slides (not counting one
+for the title).&lt;/p&gt;
+
+&lt;p&gt;There is no reading preparation assignment, but if you have ideas for
+what to do at the final meeting, or food suggestions, please send them to me.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 11: Fairness</title>

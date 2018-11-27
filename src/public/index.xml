@@ -6,8 +6,51 @@
     <description>Recent content on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 12: Fairness</title>
+      <link>https://aipavilion.github.io/week12/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/week12/</guid>
+      <description>
+
+&lt;h2 id=&#34;follow-up&#34;&gt;Follow-up&lt;/h2&gt;
+
+&lt;p&gt;Here are a few links to follow-up from the today&amp;rsquo;s discussions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Rohit asked about the Harvard admissions lawsuit. There are two
+expert reports from the case: &lt;a href=&#34;https://aipavilion.github.io/docs/Arcidiacono-Expert-Report.pdf&#34;&gt;Peter Arcidiacono&amp;rsquo;s (for &amp;ldquo;Students for
+Fair Admissions&amp;rdquo;)&lt;/a&gt; and &lt;a href=&#34;https://aipavilion.github.io/docs/harvard-report.pdf&#34;&gt;David
+Card&amp;rsquo;s (for Harvard)&lt;/a&gt;. They are both long
+reads, and with some parts redacted, mostly about Harvard&amp;rsquo;s &amp;ldquo;Dean&amp;rsquo;s
+List&amp;rdquo; for taking care of high donors.  Unfortunately (or prehaps
+responsibly), the raw data for the analysis is not publicly available,
+but there is a lot of information in the reports.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Here is the article I mentioned: Ta-Nehisi Coates. &lt;a href=&#34;https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/&#34;&gt;&lt;em&gt;The Case for
+Reparations&lt;/em&gt;&lt;/a&gt;,
+The Atlantic, June 2014. (Its not about AI fairness at all, but
+provides a lot of historical context for where we are now as a
+society, and something I would encourage everyone to read over
+winter break.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;next-final-meeting&#34;&gt;Next (Final) meeting&lt;/h2&gt;
+
+&lt;p&gt;Next week is our final seminar meeting. Everyone should be prepared to
+give a short talk (no more than 3 minutes long) on your paper
+project. Unlike previous ones, I would encourage you to prepare slides
+for this, but you should not use more than 4 slides (not counting one
+for the title).&lt;/p&gt;
+
+&lt;p&gt;There is no reading preparation assignment, but if you have ideas for
+what to do at the final meeting, or food suggestions, please send them to me.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 11: Fairness</title>
@@ -1165,56 +1208,6 @@ Intelligence change Humanity?&amp;ldquo;.  The seminar will be offered in Fall
 2018, led by &lt;a href=&#34;https://www.cs.virginia.edu/evans&#34;&gt;David
 Evans&lt;/a&gt;.  Enrollment is by permission only, and strictly limited to
 15 students (according to the Pavilion seminar rules).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aipavilion.github.io/readings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aipavilion.github.io/readings/</guid>
-      <description>
-
-&lt;h2 id=&#34;readings&#34;&gt;Readings&lt;/h2&gt;
-
-&lt;p&gt;The main books we will read for the first part of the class will be:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari, &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;. February
-2015 (first published in Hebrew in 2011)
-&lt;a href=&#34;https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/&#34;&gt;[Amazon]&lt;/a&gt;
-&lt;a href=&#34;https://www.barnesandnoble.com/w/sapiens-yuval-noah-harari/1118611502#/&#34;&gt;[Barnes &amp;amp;
-Noble]&lt;/a&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=AnPs8vnZ0I4&#34;&gt;[President Obama&amp;rsquo;s recommentation]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nick Bostrom, &lt;em&gt;Superintelligence: Paths, Dangers, Strategies&lt;/em&gt;. 2014.
-&lt;a href=&#34;https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834&#34;&gt;[Amazon]&lt;/a&gt;
-&lt;a href=&#34;https://www.barnesandnoble.com/w/superintelligence-nick-bostrom/1117941299&#34;&gt;[Barnes &amp;amp; Noble]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The focus books for the second half of the class will be selected
-based on students&amp;rsquo; interests and the discussions we have in class, but
-the most likely books include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Cathy O’Neil. &lt;em&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens
-Democracy&lt;/em&gt;. 2016.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Martin Ford. &lt;em&gt;Rise of the Robots: Technology and the Threat of a Jobless Future&lt;/em&gt;. 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari. &lt;em&gt;Homo Deus: A Brief History of Tomorrow&lt;/em&gt;. 2017.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jerry Kaplan, &lt;em&gt;Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence&lt;/em&gt;. 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Garry Kasparov, &lt;em&gt;Deep Thinking: Where Machine Intelligence Ends and
-Human Creativity Begins&lt;/em&gt;. 2017.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Max Tegmark. &lt;em&gt;Life 3.0: Being Human in the Age of Artificial Intelligence&lt;/em&gt;. 2017.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In addition to the books, there will be readings from articles and
-other materials.&lt;/p&gt;
 </description>
     </item>
     
