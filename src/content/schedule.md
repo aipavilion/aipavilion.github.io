@@ -50,5 +50,5 @@ Bostrom, <em>Superintelligence: Paths, Dangers, Strategies</em>, Chapters 1-4.
 <tr bgcolor="#FF4"><td><b>Tuesday, 20 November</b></td><td>Paper Update Due</td></tr>
 <tr bgcolor="#EE8"><td><a href="/week12">Class 12</a> (26 November)</td><td>Fairness</td></tr>
 <tr bgcolor="#FFF"><td><a href="/week13">Class 13</a> (3 December)</td><td>Paper Presentations and James Micken's talk</td></tr>
-<tr bgcolor="#FF4"><td><b>Monday, 10 December</b></td><td>Final Paper Due</td></tr>
+<tr bgcolor="#FF4"><td><b>Monday, 10 December</b></td><td><a href="/papers/">Final Papers</a></td></tr>
 </table>
