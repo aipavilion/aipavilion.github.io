@@ -9,7 +9,7 @@ Lauren Austin, _Aging Populations and The Effects on Society_ [[PDF](/docs/paper
 
 Emily Bishop, [_Artificial Intelligence Companions for the Young and Lonely_](https://medium.com/@embish818/artificial-intelligence-companions-for-the-young-and-lonely-13ab12916354)
 
-Jacob Dean, [_Self-Driving Vehicles, the Advance of Artificial Intelligence, and the Future of Work_] [[PDF](/docs/papers/selfdrivingwork.pdf)]
+Jacob Dean, _Self-Driving Vehicles, the Advance of Artificial Intelligence, and the Future of Work_ [[PDF](/docs/papers/selfdrivingwork.pdf)]
 
 Erich Froese, _Artificial Intelligence in the United States Military: Exploring Lethal Autonomous Weapons_ [[PDF](/docs/papers/lethal_autonomous_weapons.pdf)]
 
