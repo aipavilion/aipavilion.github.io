@@ -6,8 +6,20 @@
     <description>Recent content in Post-rsses on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conclusion</title>
+      <link>https://aipavilion.github.io/papers/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/papers/</guid>
+      <description>&lt;p&gt;The seminar has concluded &amp;mdash; thanks to everyone for their contributions!&lt;/p&gt;
+
+&lt;p&gt;You can see the &lt;a href=&#34;https://aipavilion.github.io/schedule&#34;&gt;Schedule&lt;/a&gt; and &lt;a href=&#34;https://aipavilion.github.io/papers&#34;&gt;Final Paper&lt;/a&gt; from the seminar.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Final Papers</title>
@@ -1004,20 +1016,6 @@ computers.&amp;rdquo; Really?&lt;/p&gt;&lt;/li&gt;
 
 &lt;p&gt;&lt;div class=&#34;quote&#34;&gt;
    &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://aipavilion.github.io/welcome/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://aipavilion.github.io/welcome/</guid>
-      <description>&lt;p&gt;Welcome to the website for the Pavilion Seminar, &amp;ldquo;How will Artificial
-Intelligence change Humanity?&amp;ldquo;.  The seminar will be offered in Fall
-2018, led by &lt;a href=&#34;https://www.cs.virginia.edu/evans&#34;&gt;David
-Evans&lt;/a&gt;.  Enrollment is by permission only, and strictly limited to
-15 students (according to the Pavilion seminar rules).&lt;/p&gt;
 </description>
     </item>
     

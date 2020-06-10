@@ -6,8 +6,20 @@
     <description>Recent content on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aipavilion.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conclusion</title>
+      <link>https://aipavilion.github.io/papers/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/papers/</guid>
+      <description>&lt;p&gt;The seminar has concluded &amp;mdash; thanks to everyone for their contributions!&lt;/p&gt;
+
+&lt;p&gt;You can see the &lt;a href=&#34;https://aipavilion.github.io/schedule&#34;&gt;Schedule&lt;/a&gt; and &lt;a href=&#34;https://aipavilion.github.io/papers&#34;&gt;Final Paper&lt;/a&gt; from the seminar.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Final Papers</title>
@@ -1004,234 +1016,6 @@ computers.&amp;rdquo; Really?&lt;/p&gt;&lt;/li&gt;
 
 &lt;p&gt;&lt;div class=&#34;quote&#34;&gt;
    &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Syllabus</title>
-      <link>https://aipavilion.github.io/syllabus/</link>
-      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://aipavilion.github.io/syllabus/</guid>
-      <description>
-
-&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://aipavilion.github.io/docs/syllabus.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;PAVS 4500 (004): &lt;em&gt;How will Artificial Intelligence change Humanity?&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-University of Virginia, Fall 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Meetings:&lt;/strong&gt; &lt;strong&gt;Mondays&lt;/strong&gt;, &lt;strong&gt;3:30-6:00PM&lt;/strong&gt; in &lt;strong&gt;Rice 536&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Coordinator:&lt;/strong&gt; &lt;a href=&#34;http://www.cs.virginia.edu/evans&#34;&gt;David Evans&lt;/a&gt;
-  (evans@virginia.edu). My
-  &lt;a href=&#34;http://www.cs.virginia.edu/evans/office&#34;&gt;office&lt;/a&gt; is Rice 507.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Office Hours:&lt;/strong&gt; I will have office hours on &lt;strong&gt;Thursdays&lt;/strong&gt;, &lt;strong&gt;9:00-10:30am&lt;/strong&gt;. To schedule another time, please use
-  &lt;a href=&#34;https://davidevans.youcanbook.me/&#34;&gt;https://davidevans.youcanbook.me/&lt;/a&gt;. When
-  my door is open, you are welcome to stop by anytime.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Course Website:&lt;/strong&gt; &lt;a href=&#34;https://aipavilion.github.io&#34;&gt;https://aipavilion.github.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Forum:&lt;/strong&gt; We will use the subreddit,
-  &lt;a href=&#34;https://www.reddit.com/r/aipavilion/&#34;&gt;/r/aipavilion&lt;/a&gt;, for
-  discussions and sharing.&lt;/p&gt;
-
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-
-&lt;p&gt;Artificial intelligence has made remarkable advances in the past
-decade, leading to machines that can out-perform humans on many of the
-tasks that once defined what it means to be human: understanding
-language, recognizing images, playing games, and even creating
-art. According to many prognosticators, within just a few decades we
-may reach a world where the traditional purposes of human existence,
-and the work the preponderance of humans do today, will no longer
-exist. This seminar will explore the validity of such predictions, and
-consider what the future of humanity is in a world that may not need
-us. We will explore these issues from a variety of perspectives,
-spanning economics, politics, philosophy, computer science, and
-anthropology. We will include both historical and fictional readings
-to understand how humanity has adapted to past dramatic shifts,
-technical readings to understand the present and future of artificial
-intelligence, philosophical and political readings to understand how
-society might adapt to increasingly intelligent and powerful machines,
-and various other media including computer simulations, music, and
-movies.&lt;/p&gt;
-
-&lt;h3 id=&#34;expected-background&#34;&gt;Expected Background&lt;/h3&gt;
-
-&lt;p&gt;This is a &lt;a href=&#34;http://college.as.virginia.edu/PAVS&#34;&gt;Pavilion Seminar&lt;/a&gt;,
-open to students in all majors and targeted to third and fourth-year
-students in the College. Enrollment is by instructor permission, and
-strictly limited to 15 students.&lt;/p&gt;
-
-&lt;p&gt;Students are not required to have any particular background in
-computing or artificial intelligence, but it is hoped that all
-students will bring some interesting experience and background to the
-seminar.&lt;/p&gt;
-
-&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
-
-&lt;p&gt;Students in the seminar will be expected to complete a variety of
-different types of assignments during the semester, including:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Readings and Reactions:&lt;/strong&gt; Most weeks we will have reading (and
-sometimes viewing) assignments that will typically be some chapters
-from a book and a few short articles. Short weekly responses to
-readings and questions posted about the readings.  These essays will
-be posted on the class forum, and available to all students in the
-class for further discussion and comments.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Papers:&lt;/strong&gt; There will be two major papers in the seminar. For both of
-the papers, students will develop an idea for the paper and discuss it
-with the class, submit a preliminary draft to the instructor for
-feedback, and would be expected to revise the final paper in response
-to comments and discussion. For the first paper, students will focus
-on one aspect of how artificial intelligence has already impacted
-society, describing the impact of technological advances on a social,
-political, economic, or psychological aspect of human existence. For
-the second paper, students will speculate on the future, grounding
-their arguments in technical understanding of the expected
-capabilities of artificial intelligence, and considering how humanity
-may adapt to a future with intelligent machines. Students are
-encouraged to develop creative ideas for alternative topics for the
-papers, as well as alternate communications tools (such as a scripted
-video or podcast instead of a paper), and to discuss and gain approval
-for proposed alternatives with the course instructor.&lt;/p&gt;
-
-&lt;p&gt;The deliverables for the paper assignments are (deadlines are by 11:59pm on the date given):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Sunday, 30 September&lt;/b&gt;: Idea for First Paper Due&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Wednesday, 17 October&lt;/b&gt;: First Paper Draft Due&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Tuesday, 30 October&lt;/b&gt;: First Paper Final Due&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Sunday, 11 November&lt;/b&gt;: Proposal for Final Paper Due&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Tuesday, 20 November&lt;/b&gt;: Draft of Final Paper Due&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Monday, 10 December&lt;/b&gt;: Final Paper Due&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;readings&#34;&gt;Readings&lt;/h3&gt;
-
-&lt;p&gt;The main books we will read for the first part of the class will be:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari, &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;. February
-2015 (first published in Hebrew in 2011)
-&lt;a href=&#34;https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/&#34;&gt;[Amazon]&lt;/a&gt;
-&lt;a href=&#34;https://www.barnesandnoble.com/w/sapiens-yuval-noah-harari/1118611502#/&#34;&gt;[Barnes &amp;amp;
-Noble]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nick Bostrom, &lt;em&gt;Superintelligence: Paths, Dangers, Strategies&lt;/em&gt;. 2014.
-&lt;a href=&#34;https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834&#34;&gt;[Amazon]&lt;/a&gt;
-&lt;a href=&#34;https://www.barnesandnoble.com/w/superintelligence-nick-bostrom/1117941299&#34;&gt;[Barnes &amp;amp; Noble]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The focus books for the second half of the class will be selected
-based on students&amp;rsquo; interests and the discussions we have in class, but
-the most likely books include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Cathy O’Neil. &lt;em&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens
-Democracy&lt;/em&gt;. 2016.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Martin Ford. &lt;em&gt;Rise of the Robots: Technology and the Threat of a Jobless Future&lt;/em&gt;. 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari. &lt;em&gt;Homo Deus: A Brief History of Tomorrow&lt;/em&gt;. 2017.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jerry Kaplan, &lt;em&gt;Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence&lt;/em&gt;. 2015.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Garry Kasparov, &lt;em&gt;Deep Thinking: Where Machine Intelligence Ends and
-Human Creativity Begins&lt;/em&gt;. 2017.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Max Tegmark. &lt;em&gt;Life 3.0: Being Human in the Age of Artificial Intelligence&lt;/em&gt;. 2017.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In addition to the books, there will be readings from articles and
-other materials. The weekly reading assignments will be posted on the
-course site.&lt;/p&gt;
-
-&lt;h3 id=&#34;honor&#34;&gt;Honor&lt;/h3&gt;
-
-&lt;p&gt;We believe strongly in the value of a &lt;em&gt;community of trust&lt;/em&gt;, and expect
-all of the students in this class to contribute to strenghtening and
-enhancing that community.&lt;/p&gt;
-
-&lt;p&gt;As a student at the University of Virginia, you are trusted to be
-honorable and expected to behave in ways that merit that trust. We
-take advantage of this trust to provide a better learning environment
-for everyone.  The course will be better for everyone if everyone can
-assume everyone else is trustworthy, and we start from the assumption
-that all students at the university deserve to be trusted.&lt;/p&gt;
-
-&lt;p&gt;For most assignments in this course, you will be encouraged to discuss
-ideas and work with others to develop your ideas, but expected to do
-your writing on your own. You will always be expected to credit any
-collaborators and properly cite any resources you use. The honor
-expectations for each assignment should be clearly stated and make it
-unambiguous what is and is not permitted. If it is ever unclear what
-is considered acceptable on an assignment, please check with me.&lt;/p&gt;
-
-&lt;h3 id=&#34;expectations-and-accommodations&#34;&gt;Expectations and Accommodations&lt;/h3&gt;
-
-&lt;p&gt;It is my goal to create a learning experience that is as engaging,
-worthwhile, and accessible as possible. We hope the topics we discuss
-in this class will be ones where many students feel passionately and
-have strong views they want to share. Some of the readings will
-contradict your deeply held beliefs and challenge your assumptions.
-It is important that everyone is respectful and that discussions focus
-on ideas and evidence, and that everyone has an opportunity to share
-their thoughts without interruption.&lt;/p&gt;
-
-&lt;p&gt;Since the class only meets once a week, and is in a seminar style, it
-is essential that everyone attend every class, prepares well and
-contributes outside of class, and is fully engaged during the seminar
-time. That said, I understand that personal circumstances arise that
-may make this difficult or impossible for some students some weeks. If
-you are encountering issues that make it difficult to participate
-fully in the seminar, please let me know as soon as possible, and we
-will work something out.&lt;/p&gt;
-
-&lt;p&gt;If you anticipate any issues related to the format, materials, or
-requirements of this course, please meet with me outside of class so
-we can explore potential options. Students with disabilities may also
-wish to work with the Student Disability Access Center to discuss a
-range of options to removing barriers in this course, including
-official accommodations. Please visit their website for information on
-this process and to apply for services online:
-&lt;a href=&#34;sdac.studenthealth.virginia.edu&#34;&gt;sdac.studenthealth.virginia.edu&lt;/a&gt;. If
-you have already been approved for accommodations through SDAC, please
-send me your accommodation letter and meet with me so we can develop
-an implementation plan together.&lt;/p&gt;
-
-&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
-
-&lt;p&gt;My hope is students will focus on learning and producing something of
-value.&lt;/p&gt;
-
-&lt;p&gt;Students will be evaluated primarily based on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Overall contribution to the seminar. This includes contributions in
-class and one the course forum, as well as any extraordinary
-contributions to making the seminar worthwhile.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Quality of the major writing assignments. Papers will be evaluated
-for their creativity, novelty, persuasiveness, and clarity. For both
-of the major papers, students will have opportunities to submit
-early versions of the paper for feedback, and will be expected to
-improve the writing based on that feedback. The grades will be based
-on the final papers, after revisions based on feedback from the
-proposal and first draft.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I don&amp;rsquo;t provide a generic percentage breakdown for each of the
-components, since excellent performance on any one of them (along with
-acceptable effort on the others) will be enough to justify an A in the
-course.  For a typical students, I would expect the grade is
-determined by 50% for the final paper, 25% for the first paper, and
-25% for class contributions.  But a student who does an outstanding
-job on the first paper, or who consistently makes outstanding
-contributions to the course, will have heavier weighting for those
-components.&lt;/p&gt;
 </description>
     </item>
     
