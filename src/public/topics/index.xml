@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on aiPav</title>
+    <link>https://aipavilion.github.io/topics/</link>
+    <description>Recent content in Topics on aiPav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://aipavilion.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

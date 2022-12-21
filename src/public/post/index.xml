@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on aiPav</title>
-    <link>https://aipavilion.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on aiPav</description>
+    <title>Posts on aiPav</title>
+    <link>https://aipavilion.github.io/post/</link>
+    <description>Recent content in Posts on aiPav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://aipavilion.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conclusion</title>
       <link>https://aipavilion.github.io/papers/</link>
       <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/papers/</guid>
-      <description>&lt;p&gt;The seminar has concluded &amp;mdash; thanks to everyone for their contributions!&lt;/p&gt;
-
-&lt;p&gt;You can see the &lt;a href=&#34;https://aipavilion.github.io/schedule&#34;&gt;Schedule&lt;/a&gt; and &lt;a href=&#34;https://aipavilion.github.io/papers&#34;&gt;Final Paper&lt;/a&gt; from the seminar.&lt;/p&gt;
-</description>
+      <description>The seminar has concluded — thanks to everyone for their contributions!
+You can see the Schedule and Final Paper from the seminar.</description>
     </item>
     
     <item>
@@ -27,36 +23,12 @@
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/papers/</guid>
-      <description>&lt;p&gt;Lauren Austin, &lt;em&gt;Aging Populations and The Effects on Society&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/aging.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Emily Bishop, &lt;a href=&#34;https://medium.com/@embish818/artificial-intelligence-companions-for-the-young-and-lonely-13ab12916354&#34;&gt;&lt;em&gt;Artificial Intelligence Companions for the Young and Lonely&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jacob Dean, &lt;em&gt;Self-Driving Vehicles, the Advance of Artificial Intelligence, and the Future of Work&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/selfdrivingwork.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Erich Froese, &lt;em&gt;Artificial Intelligence in the United States Military: Exploring Lethal Autonomous Weapons&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/lethal_autonomous_weapons.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Megan Greatorex, &lt;em&gt;Was Face ID the Right Move for Apple&amp;rsquo;s New iPhone?&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/faceid.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Nathaniel Grevatt, &lt;em&gt;Google&amp;rsquo;s Duplex and Deception through Power and Dignity&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/duplex.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Lauren Holt, &lt;em&gt;How Much Do Smart Speakers Really Hear and Who is Listening?&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/smart_speakers.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Mira Lee, &lt;em&gt;Bridging Artificial Intelligence&amp;rsquo;s Empathy Gap in the Healthcare Industry&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/empathy_gap.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Maria Morrissey, &lt;em&gt;Artificial Intelligence and Universal Basic Income&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/ubi.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Rohit Musti, &lt;em&gt;AI and Sentencing&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/sentencing.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Kavya Ravikanti, &lt;em&gt;Leveraging AI to Fight Climate Change&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/climate.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Cal Ries, &lt;em&gt;Artificial Companions for the Elderly&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/artificial_companions.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Fiona Seoh, &lt;em&gt;Enhancing Life by Quantifying Death&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/healthcare.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Stella Sotos, &lt;em&gt;Considering the Impact of Autocomplete on Users&lt;/em&gt;. [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/autocomplete.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Olivia Stiebel, &lt;em&gt;Digital Avatars and the Digital Afterlife&lt;/em&gt; [&lt;a href=&#34;https://aipavilion.github.io/docs/papers/avatars.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
-</description>
+      <description>Lauren Austin, Aging Populations and The Effects on Society [PDF]
+Emily Bishop, Artificial Intelligence Companions for the Young and Lonely
+Jacob Dean, Self-Driving Vehicles, the Advance of Artificial Intelligence, and the Future of Work [PDF]
+Erich Froese, Artificial Intelligence in the United States Military: Exploring Lethal Autonomous Weapons [PDF]
+Megan Greatorex, Was Face ID the Right Move for Apple&amp;rsquo;s New iPhone? [PDF]
+Nathaniel Grevatt, Google&amp;rsquo;s Duplex and Deception through Power and Dignity [PDF]</description>
     </item>
     
     <item>
@@ -65,41 +37,8 @@
       <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week12/</guid>
-      <description>
-
-&lt;h2 id=&#34;follow-up&#34;&gt;Follow-up&lt;/h2&gt;
-
-&lt;p&gt;Here are a few links to follow-up from the today&amp;rsquo;s discussions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Rohit asked about the Harvard admissions lawsuit. There are two
-expert reports from the case: &lt;a href=&#34;https://aipavilion.github.io/docs/Arcidiacono-Expert-Report.pdf&#34;&gt;Peter Arcidiacono&amp;rsquo;s (for &amp;ldquo;Students for
-Fair Admissions&amp;rdquo;)&lt;/a&gt; and &lt;a href=&#34;https://aipavilion.github.io/docs/harvard-report.pdf&#34;&gt;David
-Card&amp;rsquo;s (for Harvard)&lt;/a&gt;. They are both long
-reads, and with some parts redacted, mostly about Harvard&amp;rsquo;s &amp;ldquo;Dean&amp;rsquo;s
-List&amp;rdquo; for taking care of high donors.  Unfortunately (or prehaps
-responsibly), the raw data for the analysis is not publicly available,
-but there is a lot of information in the reports.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Here is the article I mentioned: Ta-Nehisi Coates. &lt;a href=&#34;https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/&#34;&gt;&lt;em&gt;The Case for
-Reparations&lt;/em&gt;&lt;/a&gt;,
-The Atlantic, June 2014. (Its not about AI fairness at all, but
-provides a lot of historical context for where we are now as a
-society, and something I would encourage everyone to read over
-winter break.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;next-final-meeting&#34;&gt;Next (Final) meeting&lt;/h2&gt;
-
-&lt;p&gt;Next week is our final seminar meeting. Everyone should be prepared to
-give a short talk (no more than 3 minutes long) on your paper
-project. Unlike previous ones, I would encourage you to prepare slides
-for this, but you should not use more than 4 slides (not counting one
-for the title).&lt;/p&gt;
-
-&lt;p&gt;There is no reading preparation assignment, but if you have ideas for
-what to do at the final meeting, or food suggestions, please send them to me.&lt;/p&gt;
-</description>
+      <description>Follow-up Here are a few links to follow-up from the today&amp;rsquo;s discussions:
+  Rohit asked about the Harvard admissions lawsuit. There are two expert reports from the case: Peter Arcidiacono&amp;rsquo;s (for &amp;ldquo;Students for Fair Admissions&amp;rdquo;) and David Card&amp;rsquo;s (for Harvard). They are both long reads, and with some parts redacted, mostly about Harvard&amp;rsquo;s &amp;ldquo;Dean&amp;rsquo;s List&amp;rdquo; for taking care of high donors. Unfortunately (or prehaps responsibly), the raw data for the analysis is not publicly available, but there is a lot of information in the reports.</description>
     </item>
     
     <item>
@@ -108,29 +47,10 @@ what to do at the final meeting, or food suggestions, please send them to me.&lt
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week11/</guid>
-      <description>
-
-&lt;h2 id=&#34;reading-viewing-assignment&#34;&gt;Reading/Viewing Assignment&lt;/h2&gt;
-
-&lt;p&gt;Next week, we&amp;rsquo;ll talk about algorithmic fairness.&lt;/p&gt;
-
-&lt;p&gt;There are lots of very interesting writings on this, but I want to
-keep the required reading over Thanksgiving break to a minimum.&lt;/p&gt;
-
-&lt;p&gt;For the required reading, you can select one of these two options:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Watch Christopher Moore&amp;rsquo;s talk, &lt;a href=&#34;https://www.youtube.com/watch?v=Sg2jtEY6qms&amp;amp;t=5s&#34;&gt;&lt;em&gt;Data, Algorithms, Justice, and Fairness&lt;/em&gt;&lt;/a&gt; (Ulam Lecture at Santa Fe Institute, Oct 2018). (You can skip the excellent but long introduction by &lt;a href=&#34;https://youtu.be/Sg2jtEY6qms?t=737&#34;&gt;starting at 12:19&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read &lt;a href=&#34;https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&#34;&gt;&lt;em&gt;Machine Bias&lt;/em&gt;&lt;/a&gt;, ProPublica, 23 May 2016, and &lt;a href=&#34;https://www.documentcloud.org/documents/2998391-ProPublica-Commentary-Final-070616.html&#34;&gt;Northpointe&amp;rsquo;s response&lt;/a&gt; (with commentary from ProPublica).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Please post something in the &lt;a href=&#34;https://redd.it/9ynlx3&#34;&gt;course
-subreddit&lt;/a&gt; to spark discussion on this
-topic. It could be a link to a news article on algorithmic fairness
-with a brief comment on it, or a question or comment about the reading
-(or talk).&lt;/p&gt;
-</description>
+      <description>Reading/Viewing Assignment Next week, we&amp;rsquo;ll talk about algorithmic fairness.
+There are lots of very interesting writings on this, but I want to keep the required reading over Thanksgiving break to a minimum.
+For the required reading, you can select one of these two options:
+  Watch Christopher Moore&amp;rsquo;s talk, Data, Algorithms, Justice, and Fairness (Ulam Lecture at Santa Fe Institute, Oct 2018). (You can skip the excellent but long introduction by starting at 12:19.</description>
     </item>
     
     <item>
@@ -139,29 +59,9 @@ with a brief comment on it, or a question or comment about the reading
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/paper-updates/</guid>
-      <description>&lt;p&gt;Paper updates are due next week Tuesday, November 20. For everyone,
-you should send an email with subject line &lt;code&gt;[AI Pavillion] Paper Update: &amp;lt;your title&amp;gt;&lt;/code&gt;. What is expected in the update depends on
-whether you are continuing with your first paper topic for the final
-paper, or you are starting a new topic.&lt;/p&gt;
-
-&lt;p&gt;For students starting new topics for the final paper, you should:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;In the email body, answer (1) brief statement of your topic, (2) purpose of your paper, and (3) your plans for what to do through the final deadline (this can include specific sources you will be looking into, and what you are planning to do for the final paper). These can be refinements of the topic idea you&amp;rsquo;ve already sent me, and some have in discussion now.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Attach a PDF that includes at least the introduction to your paper (this should be 1-2 pages that setup the purpose of your paper).&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For students continuing with the topic for your first paper:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;In the email body, explain (1) how your topic and purpose have evolved, or if they haven&amp;rsquo;t changed, (2) what you have done since the last paper submission to develop your work, and (3) your plans for what to do through the final deadline (this can include specific sources you will be looking into, and what you are planning to do for the final paper).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Attach a PDF with the updated paper, and (4) in the email explain clearly which section(s) you want me to provide feedback on. This should include the Introduction which is usually the most important section of any paper, since if it doesn&amp;rsquo;t set up a compelling paper no one will want to read the rest. If you have other sections that you want feedback on now, mention that in the email.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hope this is clear and makes sense for everyone. The goal of this is to ensure that everyone is on track for an interesting and high quality paper by the end of the semester. If you are at a stage where something else would be more useful (either in terms of the Nov 20 deadline or what you are sending), let me know and we can consider alternatives.&lt;/p&gt;
-</description>
+      <description>Paper updates are due next week Tuesday, November 20. For everyone, you should send an email with subject line [AI Pavillion] Paper Update: &amp;lt;your title&amp;gt;. What is expected in the update depends on whether you are continuing with your first paper topic for the final paper, or you are starting a new topic.
+For students starting new topics for the final paper, you should:
+  In the email body, answer (1) brief statement of your topic, (2) purpose of your paper, and (3) your plans for what to do through the final deadline (this can include specific sources you will be looking into, and what you are planning to do for the final paper).</description>
     </item>
     
     <item>
@@ -170,29 +70,9 @@ paper, or you are starting a new topic.&lt;/p&gt;
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week10/</guid>
-      <description>
-
-&lt;h2 id=&#34;reading-assignment&#34;&gt;Reading Assignment&lt;/h2&gt;
-
-&lt;p&gt;Next week, we&amp;rsquo;ll talk about security and malicious uses of AI.&lt;/p&gt;
-
-&lt;p&gt;There are two readings. If you did the discussion post for last week,
-you should select &lt;strong&gt;either one of these two readings&lt;/strong&gt;; if not, you
-should read both of them (you&amp;rsquo;ll get a confirmation email from me if
-you are in this group).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Daniel Geer. &lt;a href=&#34;https://www.hoover.org/sites/default/files/research/docs/geer_webreadypdfupdated2.pdf&#34;&gt;&lt;em&gt;A Rubicon&lt;/em&gt;&lt;/a&gt;. Hoover Institution, Aegis Paper No 1801. February 2018.  [&lt;a href=&#34;https://redd.it/9wr59x&#34;&gt;Discussion&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Miles Brundage, et al. &lt;a href=&#34;https://aipavilion.github.io/docs/malicious.pdf&#34;&gt;&lt;em&gt;The Malicious Use of Artificial
-Intelligence: Forecasting, Prevention, and Mitigation&lt;/em&gt;&lt;/a&gt;. February 2018.  (This looks long, but is low-density format. Read at least through the end of Section 3 (Security Domains). It is not necessary to read their Interventions and the later sections, although you should think about what recommendations you
-would make.) [&lt;a href=&#34;https://redd.it/9wr5iw&#34;&gt;Discussion&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In the form, &lt;strong&gt;post and idea for a discussion point&lt;/strong&gt; based on the
-reading. There are no specific prompts for this, it can be anything
-that strikes you as interesting to discuss from the reading.&lt;/p&gt;
-</description>
+      <description>Reading Assignment Next week, we&amp;rsquo;ll talk about security and malicious uses of AI.
+There are two readings. If you did the discussion post for last week, you should select either one of these two readings; if not, you should read both of them (you&amp;rsquo;ll get a confirmation email from me if you are in this group).
+  Daniel Geer. A Rubicon. Hoover Institution, Aegis Paper No 1801. February 2018. [Discussion]</description>
     </item>
     
     <item>
@@ -201,41 +81,9 @@ that strikes you as interesting to discuss from the reading.&lt;/p&gt;
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week9/</guid>
-      <description>
-
-&lt;h2 id=&#34;announcements&#34;&gt;Announcements&lt;/h2&gt;
-
-&lt;p&gt;Anton Korinek in Economics is offering a course in the Spring on &lt;em&gt;Artificial Intelligence and the Future of Work&amp;hellip;and of Humanity&lt;/em&gt;, with lots of themes related to this seminar. A tentative syllabus is &lt;a href=&#34;https://sites.google.com/a/korinek.com/home/download/AI_Syllabus.pdf&#34;&gt;posted here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Next week, &lt;a href=&#34;https://allisonpugh.weebly.com/&#34;&gt;Allison Pugh&lt;/a&gt;, Professor
-of Sociology at UVA, will visit us. You should read the paper
-distributed in class today, &lt;em&gt;Of Seeing and Being Seen: What Humans Do
-for Each Other&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I will finish reading your papers by my office hours Thursday
-(9-10:30am). Please stop by if you can to pick up your paper, or find
-me some other time (feel free to stop by anytime you see my office
-open).&lt;/p&gt;
-
-&lt;h2 id=&#34;reading-assignment&#34;&gt;Reading Assignment&lt;/h2&gt;
-
-&lt;p&gt;Read Allison Pugh&amp;rsquo;s paper distributed in class, &lt;em&gt;Of Seeing and Being
-Seen: What Humans Do for Each Other&lt;/em&gt; (if you lost the paper copy,
-email me for a PDF), and post your responses
-&lt;a href=&#34;https://redd.it/9ul2bz&#34;&gt;here&lt;/a&gt; by Sunday, 11 November.&lt;/p&gt;
-
-&lt;p&gt;You should either post your own question or comment on the paper,
-respond to someone else&amp;rsquo;s comment, or respond to one of these
-questions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The paper considers three connective labor relationships: doctor-patient, teacher-student, and minister-congregant. Identify another connective labor relationship and discuss how the ideas in the paper might (or might not) apply to it.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Why are measurement strategies for connective work so ineffective? Are there strategies that could work?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&amp;ldquo;The downside of freedom from shame, it seems, is freedom from caring at all.&amp;rdquo; Is there a way to have caring without shame?&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Announcements Anton Korinek in Economics is offering a course in the Spring on Artificial Intelligence and the Future of Work&amp;hellip;and of Humanity, with lots of themes related to this seminar. A tentative syllabus is posted here.
+Next week, Allison Pugh, Professor of Sociology at UVA, will visit us. You should read the paper distributed in class today, Of Seeing and Being Seen: What Humans Do for Each Other.
+I will finish reading your papers by my office hours Thursday (9-10:30am).</description>
     </item>
     
     <item>
@@ -244,29 +92,8 @@ questions:&lt;/p&gt;
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week8/</guid>
-      <description>
-
-&lt;h2 id=&#34;schedule-updates&#34;&gt;Schedule Updates&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Office Hours this week:&lt;/strong&gt; I will not be able to hold my Thursday morning office hours this week, but will be available later in the day Thursday. I should be around most of the afternoon, so feel free to drop by, or email me to arrange a time.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Paper 1&lt;/strong&gt; is due &lt;strong&gt;Thursday, 1 November&lt;/strong&gt; at &lt;strong&gt;4:59pm&lt;/strong&gt;. (This is a
-  strict deadline since I need to print the papers before leaving on a
-  trip.). Please remember to follow the &lt;a href=&#34;https://aipavilion.github.io/week7&#34;&gt;directions posted last
-  week&lt;/a&gt; about what to include in your email.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Short talks:&lt;/strong&gt; You should prepare a five minute presentation about your paper topic, to present in class next Monday (5 November).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Happy Halloween!&lt;/strong&gt; Beware of trick-xor-treaters  who are impersonating valid trickers.&lt;/p&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;Slides from today&amp;rsquo;s class: &lt;a href=&#34;https://speakerdeck.com/evansuva/ai-control-problem&#34;&gt;SpeakerDeck&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://poloclub.github.io/ganlab/&#34;&gt;GAN Lab&lt;/a&gt; (in-browser play with Generative Adversarial Networks)&lt;/p&gt;
-
-&lt;p&gt;The Verge. &lt;a href=&#34;https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans&#34;&gt;&lt;em&gt;How three French students used borrowed code to put the first AI portrait in Christie&amp;rsquo;s&lt;/em&gt;&lt;/a&gt;. 23 October 2018.&lt;/p&gt;
-</description>
+      <description>Schedule Updates Office Hours this week: I will not be able to hold my Thursday morning office hours this week, but will be available later in the day Thursday. I should be around most of the afternoon, so feel free to drop by, or email me to arrange a time.
+Paper 1 is due Thursday, 1 November at 4:59pm. (This is a strict deadline since I need to print the papers before leaving on a trip.</description>
     </item>
     
     <item>
@@ -275,75 +102,9 @@ questions:&lt;/p&gt;
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week7/</guid>
-      <description>
-
-&lt;h1 id=&#34;assignment-for-this-week&#34;&gt;Assignment for this week&lt;/h1&gt;
-
-&lt;p&gt;Mainly, you should focus on developing your papers this week, so the
-reading assignment is short but covers many interesting topics for
-class discussion.  Before class on Oct 29, you should read:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Chapter 9: &lt;em&gt;The Control Problem&lt;/em&gt; from Nick Bostrom&amp;rsquo;s &lt;em&gt;Superintelligence&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview/&#34;&gt;Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World&lt;/a&gt;, Wired Magazine, November 2016. (Read at least up to the quote below.)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pay particular attention to these quotes, and how they relate to Bostrom&amp;rsquo;s chapter:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;OBAMA: &amp;hellip; Then there could be an algorithm that said, &amp;ldquo;Go penetrate the nuclear codes and figure out how to launch some missiles.&amp;rdquo; If that&amp;rsquo;s its only job, if it&amp;rsquo;s self-teaching and it&amp;rsquo;s just a really effective algorithm, then you&amp;rsquo;ve got problems. I think my directive to my national security team is, don&amp;rsquo;t worry as much yet about machines taking over the world. Worry about the capacity of either nonstate actors or hostile actors to penetrate systems, and in that sense it is not conceptually different than a lot of the cybersecurity work we&amp;rsquo;re doing. It just means that we&amp;rsquo;re gonna have to be better, because those who might deploy these systems are going to be a lot better now.&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;ITO: I generally agree. The only caveat is that there are a few people who believe that there is a fairly high-percentage chance that a generalized AI will happen in the next 10 years. But the way I look at it is that in order for that to happen, we’re going to need a dozen or two different breakthroughs. So you can monitor when you think these breakthroughs will happen.&lt;/p&gt;
-
-&lt;p&gt;OBAMA: And you just have to have somebody close to the power cord. [Laughs.] Right when you see it about to happen, you gotta yank that electricity out of the wall, man.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Office hours delayed:&lt;/strong&gt; I will start my office hours this week late on Thursday (usually 9-10:30am); I should be there by 9:30am. If you have questions about the comments on your paper draft, please stop by then or another time. You can use &lt;a href=&#34;http://davidevans.youcanbook.me&#34;&gt;&lt;em&gt;http://davidevans.youcanbook.me&lt;/em&gt;&lt;/a&gt; to schedule a meeting.&lt;/p&gt;
-
-&lt;h1 id=&#34;writing-advice&#34;&gt;Writing Advice&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Purpose:&lt;/strong&gt; Write with a purpose (even if your real purpose is to satisfy a course requirement, you should write as though you have a real purpose, and hopefully you do!)&lt;/p&gt;
-
-&lt;p&gt;Examples of reasonable purposes for writing:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Persuade the reader to do something they would not do otherwise&lt;/li&gt;
-&lt;li&gt;Convince the reader that something controversial and non-obvious is true&lt;/li&gt;
-&lt;li&gt;Make the reader understand something interesting and important that they don’t already known&lt;/li&gt;
-&lt;li&gt;Entertain the reader&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that all of these purposes assume a &lt;em&gt;reader&lt;/em&gt; – you should have a clear idea who the intended audience is for your writing, and write with them in mind. The purpose of your writing should be stated explicitly and clearly so the reader knows why you want them to read it. Usually, this is done at the end of the abstract (or the first paragraph if there is no abstract). It should be a sentence like, &amp;ldquo;The goal of this article is to &amp;hellip;&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Organize:&lt;/strong&gt; Use section headers and divisions with meaningful labels to break up your text. You shouldn’t have more than a page without some clear header or at least a paragraph tag to make it clear what it is about.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Stories:&lt;/strong&gt; Tell stories, not lists. Unlike this document, a well written essay should follow a clear story. Each paragraph should be connected to the previous one, and all of them should serve the purpose. You shouldn’t have lists of disconnected things without a very good reason.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Cites:&lt;/strong&gt; How and when to use quotes and references:
-   -  Most definitely, don’t plagarize! But, don’t use quotes to avoid plagarizing – write in a way that is not plagarizing without needing quotes.
-   -  Use a quote when the person/organization you are quoting matters, should be introduced with their identify: e.g., Andrew Ng dismissed the risks of AI, stating that &lt;a href=&#34;https://www.theregister.co.uk/2015/03/19/andrew_ng_baidu_ai/&#34;&gt;&amp;ldquo;I don’t work on not turning AI evil today for the same reason I don&amp;rsquo;t worry about the problem of overpopulation on the planet Mars.&amp;rdquo;&lt;/a&gt;
-   -  Use references to provide sources for materials – seminal sources when possible (and when that is what you are writing about), not secondary ones (other people’s summaries).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Write simply and directly:&lt;/strong&gt; Don’t use a complex word when a simple one would do: &amp;ldquo;utilize&amp;rdquo; =&amp;gt; &amp;ldquo;use&amp;rdquo;, &amp;ldquo;advancements&amp;rdquo; =&amp;gt; &amp;ldquo;advances&amp;rdquo;, etc. Don&amp;rsquo;t use overly complex sentence structures without a good reason.&lt;/p&gt;
-
-&lt;h3 id=&#34;paper&#34;&gt;Paper&lt;/h3&gt;
-
-&lt;p&gt;The &amp;ldquo;final&amp;rdquo; version of your first paper is due by 4:59pm on Thursday,
-November 1 (note that this is extended from the original deadline that
-was October 30).&lt;/p&gt;
-
-&lt;p&gt;You can submit the paper by email with a PDF attachment and subject line &lt;code&gt;[AI Pavilion] _Paper Title_&lt;/code&gt;. The email should also include answers to each of these questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What is the purpose of your paper? (one sentence answer)&lt;/li&gt;
-&lt;li&gt;Who is your intended audience? (one sentence answer)&lt;/li&gt;
-&lt;li&gt;If you decided not to follow advice from the first draft, explain why. (It is okay to not follow advice, but you need to make it clear that you understood the advice and justify why you didn&amp;rsquo;t follow it.)&lt;/li&gt;
-&lt;li&gt;Do you want to continue with this topic, or start on a new topic for the &amp;ldquo;final&amp;rdquo; paper? (Yes/no answer is fine, but feel free to explain more if helpful)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Assignment for this week Mainly, you should focus on developing your papers this week, so the reading assignment is short but covers many interesting topics for class discussion. Before class on Oct 29, you should read:
+  Chapter 9: The Control Problem from Nick Bostrom&amp;rsquo;s Superintelligence.
+  Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World, Wired Magazine, November 2016. (Read at least up to the quote below.</description>
     </item>
     
     <item>
@@ -352,72 +113,7 @@ was October 30).&lt;/p&gt;
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week6/</guid>
-      <description>
-
-&lt;h2 id=&#34;paper-draft&#34;&gt;Paper Draft&lt;/h2&gt;
-
-&lt;p&gt;Your First Paper Drafts are due tomorrow (Wednesday). Please submit your paper first drafts by sending an email with a PDF file attached to &lt;a href=&#34;mailto:evans@virginia.edu&#34;&gt;me&lt;/a&gt;, with a subject line &lt;code&gt;[AI Pavilion] &amp;lt;your paper title&amp;gt;&lt;/code&gt;. I&amp;rsquo;ll send a quick ack message so you know I received it. You don&amp;rsquo;t need to post your paper draft publicly (on the class reddit) unless you want to, but are welcome do to so also if you want
-to share it with the class/world at this stage.&lt;/p&gt;
-
-&lt;p&gt;If you would like to get quick feedback on your paper at my office hours Thursday morning (9-10:30am), include a note in your email saying this and I&amp;rsquo;ll prioritize reading your paper.&lt;/p&gt;
-
-&lt;h2 id=&#34;assignment-for-next-class&#34;&gt;Assignment for Next Class&lt;/h2&gt;
-
-&lt;p&gt;For the next class, we&amp;rsquo;ll focus on &amp;ldquo;Black Mirror&amp;rdquo;, a British TV series
-whose episodes explore (usually dystopian) outcomes of possible future
-technologies.&lt;/p&gt;
-
-&lt;p&gt;Our two &amp;ldquo;Black Mirror&amp;rdquo; experts have suggested three episodes (thanks
-Erich and Emily!), and everyone will be expected to watch at least one
-of them and read a short paper related to it from the &lt;a href=&#34;https://kmitd.github.io/recoding-black-mirror/rbm-2018.html&#34;&gt;Recoding Black
-Mirror
-Workshop&lt;/a&gt;
-that was held at &lt;a href=&#34;https://www2018.thewebconf.org/&#34;&gt;WWW 2018&lt;/a&gt; (for two
-of the episodes, there are closely related papers).&lt;/p&gt;
-
-&lt;p&gt;To ensure coverage across the three selected episodes, I have
-arbitrarily (* not completely arbitrarily - if there was an obvious
-connection between your paper topic and one of the episodes you should
-be in the right group for that topic) put you in three groups - but,
-the groups should be considered &amp;ldquo;default&amp;rdquo; choices; if you want to
-switch to a different episode from the one you&amp;rsquo;ve been assigned,
-that&amp;rsquo;s fine. The episodes are all available through Netflix - I
-believe most of you have access to this, but if you need help let me
-know. Its fine if you watch the episode alone, but probably more fun
-if you can get together with others in your group to watch it
-together. I&amp;rsquo;ll leave it up to you to try and coordinate this (feel
-free to post on the class subreddit if that&amp;rsquo;s helpful).&lt;/p&gt;
-
-&lt;p&gt;Everyone should (either individually, or in coordination with others in your episode group):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Come to class Monday prepared to give a summary of your episode to the class; if you want to include showing a few short scenes from it, that&amp;rsquo;s fine and encouraged!.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Think about these questions (and use the reading to help):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;how realistic is the technology that is the basis for the episode?&lt;/li&gt;
-&lt;li&gt;if the technology imagined is developed, should it be allowed?&lt;/li&gt;
-&lt;li&gt;what could we do to increase the likelihood the imagined technology is used for the greater good of humanity, not to create a dystopian future?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&#34;group-1-cal-emily-lauren-a-olivia-nathanael-stella&#34;&gt;Group 1: Cal, Emily, Lauren A., Olivia, Nathanael, Stella&lt;/h4&gt;
-
-&lt;p&gt;Episode: &amp;ldquo;Be Right Back&amp;rdquo;, Series 2, Episode 1&lt;br /&gt;
-Paper: Tabea Tietz, Francesca Pichierri, Maria Koutraki, Dara Hallinan, Franziska Boehm, and Harald Sack. &lt;a href=&#34;https://aipavilion.github.io/docs/berightback.pdf&#34;&gt;&lt;em&gt;Digital Zombies - the Reanimation of our Digital Selves&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
-Optional second paper: Martino Mensio, Giuseppe Rizzo, Maurizio Morisio. &lt;a href=&#34;https://aipavilion.github.io/docs/berightback2.pdf&#34;&gt;&lt;em&gt;The Rise of Emotion-aware Conversational Agents: Threats in Digital Emotions&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;group-2-jacob-kavya-lauren-h-maria-rohit&#34;&gt;Group 2: Jacob, Kavya, Lauren H., Maria, Rohit&lt;/h4&gt;
-
-&lt;p&gt;Episode: &amp;ldquo;Nosedive&amp;rdquo;, Series 3 Episode 1&lt;br /&gt;
-Paper: Harshvardhan J. Pandit, Dave Lewis. &lt;a href=&#34;https://aipavilion.github.io/docs/nosedive.pdf&#34;&gt;&lt;em&gt;Ease and Ethics of User Profiling in Black Mirror&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;group-3-erich-fiona-megan-mira&#34;&gt;Group 3: Erich, Fiona, Megan, Mira&lt;/h4&gt;
-
-&lt;p&gt;Episode: &amp;ldquo;Hang the DJ&amp;rdquo;, Series 4 Episode 4&lt;br /&gt;
-Paper: (couldn&amp;rsquo;t find one closely related; if you can, please read that instead, otherwise read this one) Diego Sempreboni, Luca Vigano. &lt;a href=&#34;https://aipavilion.github.io/docs/mmm.pdf&#34;&gt;&lt;em&gt;MMM: May I Mine Your Mind?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Paper Draft Your First Paper Drafts are due tomorrow (Wednesday). Please submit your paper first drafts by sending an email with a PDF file attached to me, with a subject line [AI Pavilion] &amp;lt;your paper title&amp;gt;. I&amp;rsquo;ll send a quick ack message so you know I received it. You don&amp;rsquo;t need to post your paper draft publicly (on the class reddit) unless you want to, but are welcome do to so also if you want to share it with the class/world at this stage.</description>
     </item>
     
     <item>
@@ -426,91 +122,9 @@ Paper: (couldn&amp;rsquo;t find one closely related; if you can, please read tha
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week5/</guid>
-      <description>
-
-&lt;h2 id=&#34;talk-this-friday&#34;&gt;Talk this Friday&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.johnchavens.com/&#34;&gt;John C. Havens&lt;/a&gt; will be speaking on Friday (Oct 5), 10-11:30am on &lt;em&gt;Humanities, Cultures and Ethics in the Era of AI&lt;/em&gt;, Wilson Hall 301. He is executive director of the IEEE project on &lt;a href=&#34;https://ethicsinaction.ieee.org/&#34;&gt;Ethics of Autonomous and Intelligent Systems&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Use &lt;a href=&#34;https://drive.google.com/open?id=1_JEklX4-NJ1lw4fm6WpJ9rwQK9kw5gPzYwOIfcGXF-A&#34;&gt;this link&lt;/a&gt; to RSVP (there is also a lunch following the talk).&lt;/p&gt;
-
-&lt;h2 id=&#34;interesting-law&#34;&gt;Interesting Law&lt;/h2&gt;
-
-&lt;p&gt;California passed a law about bots impersonating humans: &lt;a href=&#34;http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1001&#34;&gt;Senate Bill No. 1001: Bots: disclosure&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;(a) It shall be unlawful for any person to use a bot to communicate or interact with another person in California online, with the intent to mislead the other person about its artificial identity for the purpose of knowingly deceiving the person about the content of the communication in order to incentivize a purchase or sale of goods or services in a commercial transaction or to influence a vote in an election. A person using a bot shall not be liable under this section if the person discloses that it is a bot.&lt;br /&gt;
-(b) The disclosure required by this section shall be clear, conspicuous, and reasonably designed to inform persons with whom the bot communicates or interacts that it is a bot.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is interesting that it seems to be unlawful for a bot to
-intentionally confuse a human, but not for a bot to intentionally
-confuse another machine (which is a much more common problem in
-actuality today).&lt;/p&gt;
-
-&lt;h2 id=&#34;reading-assignment&#34;&gt;Reading Assignment&lt;/h2&gt;
-
-&lt;p&gt;Because of fall break, there is no meeting next week. The next major
-readings we will do are from Nick Bostrom&amp;rsquo;s &lt;em&gt;Superintelligence&lt;/em&gt;
-[&lt;a href=&#34;https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-dp-0198739834/dp/0198739834/&#34;&gt;Amazon&lt;/a&gt;]. We
-won&amp;rsquo;t read all of this, but will read many chapters. Tim Urban&amp;rsquo;s
-(&amp;ldquo;Wait but why&amp;rdquo;), &lt;a
-href=&#34;https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html&#34;&gt;&lt;em&gt;The
-AI Revolution: The Road to Superintelligence&lt;/em&gt;&lt;/a&gt; is largely based
-on this book, but the book goes into more depth on many points.&lt;/p&gt;
-
-&lt;p&gt;By October 15, you should do at least one of these two things:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Option 1:&lt;/strong&gt; Watch &lt;a href=&#34;https://www.youtube.com/watch?v=pywF6ZzsghI&#34;&gt;Nick Bostrom&amp;rsquo;s talk at
-Google&lt;/a&gt; (Sep 2014). (You
-should definitely watch the question and answer period at the end of
-the talk &amp;mdash; the first question is from Ray Kurzweil, the third is
-Peter Norvig.) and Read Chapter 3 of &lt;em&gt;Superintelligence&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Option 2:&lt;/strong&gt; Read Chapters 1-4 of &lt;em&gt;Superintelligence&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is a (relatively) short reading assignment for the two weeks you
-have, to provide time to focus on your papers (the first draft of
-which is due on &lt;strong&gt;Wednesday, October 17&lt;/strong&gt;.)&lt;/p&gt;
-
-&lt;h2 id=&#34;responses&#34;&gt;Responses&lt;/h2&gt;
-
-&lt;p&gt;Either (1) select at least one of the questions below and post a
-comment on the course forum, (2) respond to a comment someone else
-posted, or (3) post your own thoughts on something in either the talk
-or readings. &lt;a href=&#34;https://redd.it/9l7kkw&#34;&gt;[Link to Post]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Bostrom talks and writes about using biological enhancement through
-genetic selection, but many people find such an idea distasteful at
-best or dystopian at worst. According to a 2004 poll reported in book,
-28% of Americans approved of embryo selection for &amp;ldquo;strength of
-intelligence&amp;rdquo;, 68% for avoiding fatal childhood disease. A &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429433/&#34;&gt;more
-recent survey&lt;/a&gt;
-found 70% support for PGD selection for avoiding diseases fatal early
-in life or lifelong disability, 48% for diseases that manifest late in
-life, 21% for sex selection, 14.6% for physical traits, and 18.9% for
-personality traits. These responses suggest some kind of moral or
-practical difference between different types of embryo selection. Is
-there a way to decide what kinds of embryo selection are moral? What
-kinds should be disallowed, and what is the justification?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Bostrom writes about an internet with &amp;ldquo;better support for
-deliberation, de-biasing, and judgment aggregation, might make large
-contributions to increasing the collective intelligence of
-humanity&amp;rdquo;. Is this realistic? What would be necessary to move from
-what we have now to an internet that increases collective
-intelligence?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Bostrom defines &amp;ldquo;superintelligence&amp;rdquo; as &amp;ldquo;intellects that greatly
-outperform the best current human minds across many very general
-cognitive domains&amp;rdquo;, but doesn&amp;rsquo;t provide any concrete or satisfying
-definition (in my view). A better definition might make specific
-claims about what problems a superintelligence could solve, or what
-behaviors it would have. Suggest a better definition (or make a case
-in support of Bostrom&amp;rsquo;s definition).&lt;/p&gt;
-</description>
+      <description>Talk this Friday John C. Havens will be speaking on Friday (Oct 5), 10-11:30am on Humanities, Cultures and Ethics in the Era of AI, Wilson Hall 301. He is executive director of the IEEE project on Ethics of Autonomous and Intelligent Systems.
+Use this link to RSVP (there is also a lunch following the talk).
+Interesting Law California passed a law about bots impersonating humans: Senate Bill No. 1001: Bots: disclosure</description>
     </item>
     
     <item>
@@ -519,69 +133,7 @@ in support of Bostrom&amp;rsquo;s definition).&lt;/p&gt;
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week4/</guid>
-      <description>
-
-&lt;h3 id=&#34;paper-ideas&#34;&gt;Paper Ideas&lt;/h3&gt;
-
-&lt;p&gt;The idea for your first paper is due &lt;strong&gt;Sunday, 30 September&lt;/strong&gt;. From
-the syllabus, the first paper can &amp;ldquo;focus on one aspect of how
-artificial intelligence has already impacted society, describing the
-impact of technological advances on a social, political, economic, or
-psychological aspect of human existence.&amp;rdquo; It is not required that your
-paper idea is on this topic though &amp;mdash; anything that is relevant
-to the seminar theme (broadly interpreted), interesting, and with a
-scope suitable for a 4-5 week effort is reasonable.&lt;/p&gt;
-
-&lt;p&gt;You should post your paper idea on the &lt;a href=&#34;https://www.reddit.com/r/aipavilion/&#34;&gt;class
-subreddit&lt;/a&gt;. Submit a new text
-post (or a link post that links to a PDF) that has a title &lt;code&gt;Paper: your title&lt;/code&gt; and contains:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;One sentence: what is your paper about&lt;/li&gt;
-&lt;li&gt;1-2 paragraphs that motivate your topic&lt;/li&gt;
-&lt;li&gt;A short list of things you plan to do (e.g., readings) to develop your idea&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The best ideas for will make an argument for a non-obvious and
-controversial claim and include data to support that argument.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Elevator Pitches.&lt;/strong&gt; In class next week, you’ll give an elevator
-pitch for your idea to the class for feedback. This should be about 90
-seconds long &amp;mdash; enough to give a clear idea of your idea and why
-it is worth doing, but getting to the point concisely.&lt;/p&gt;
-
-&lt;h3 id=&#34;assignment&#34;&gt;Assignment&lt;/h3&gt;
-
-&lt;p&gt;Before the next class (Monday, 1 October), you should read:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari, &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;, Chapters
-18, 19 and Afterword.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://aipavilion.github.io/docs/hallpike-review.pdf&#34;&gt;Hallpike&amp;rsquo;s review of Sapiens&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tim Urban (&amp;ldquo;Wait but why&amp;rdquo;), &lt;a
-href=&#34;https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html&#34;&gt;&lt;em&gt;The
-AI Revolution: The Road to Superintelligence&lt;/em&gt;&lt;/a&gt; (Part
-2). (Posted in 2015)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Sapiens Response.&lt;/strong&gt; Now that you&amp;rsquo;ve finished &lt;em&gt;Sapiens&lt;/em&gt;, post a
-  comment that mentions the most surprising or interesting thing you
-  learned from reading it and explains why. &lt;a href=&#34;https://redd.it/9iuzz2&#34;&gt;[Discussion Link]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hallpike Response.&lt;/strong&gt; Select one of Hallpike&amp;rsquo;s criticisms of
-  &lt;em&gt;Sapiens&lt;/em&gt; (this could be a specific quote from his review, or a
-  paraphrase of a main point), and make a case opposing
-  it. Alternatively, if you find all of Hallpike&amp;rsquo;s criticisms valid
-  and convincing, respond to one of the cases posted with a
-  counter-argument. &lt;a href=&#34;https://redd.it/9iv2b5&#34;&gt;[Discussion Link]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(There&amp;rsquo;s no response question for the Superintelligence reading, but
-feel free to post any thoughts you want on this. I&amp;rsquo;m not sure if we&amp;rsquo;ll
-get to discussing this next meeting, but it, and readings from
-Bostrom&amp;rsquo;s book, will be the main focus of the next few weeks.)&lt;/p&gt;
-</description>
+      <description>Paper Ideas The idea for your first paper is due Sunday, 30 September. From the syllabus, the first paper can &amp;ldquo;focus on one aspect of how artificial intelligence has already impacted society, describing the impact of technological advances on a social, political, economic, or psychological aspect of human existence.&amp;rdquo; It is not required that your paper idea is on this topic though — anything that is relevant to the seminar theme (broadly interpreted), interesting, and with a scope suitable for a 4-5 week effort is reasonable.</description>
     </item>
     
     <item>
@@ -590,148 +142,10 @@ Bostrom&amp;rsquo;s book, will be the main focus of the next few weeks.)&lt;/p&g
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week3/</guid>
-      <description>
-
-&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://aipavilion.github.io/docs/week3.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
-
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;Loebner Prize (Turing Test)&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.pandorabots.com/mitsuku/&#34;&gt;Let&amp;rsquo;s chat with Mitsuku!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The transcripts you read were from &lt;a href=&#34;https://aipavilion.github.io/docs/turingtestexperiments.pdf&#34;&gt;&lt;em&gt;Can machines think? A report on Turing test experiments at the Royal Society&lt;/em&gt;&lt;/a&gt;, Kevin Warwick and Huma Shah, Journal of Experimental &amp;amp; Theoretical Artificial Intelligence, 2016.&lt;/p&gt;
-
-&lt;h3 id=&#34;upcoming-first-paper&#34;&gt;Upcoming: First Paper&lt;/h3&gt;
-
-&lt;p&gt;The idea for your first paper is due Sunday, 30 September. From the
-syllabus, the first paper can &amp;ldquo;focus on one aspect of how artificial
-intelligence has already impacted society, describing the impact of
-technological advances on a social, political, economic, or
-psychological aspect of human existence.&amp;rdquo; It is not required that your
-paper idea is on this topic though &amp;mdash; anything that is relevant
-to the seminar theme (broadly interpreted), interesting, and with a
-scope suitable for a 4-5 week effort is reasonable. We&amp;rsquo;ll talk more
-about this next week, but you should start thinking of ideas for your
-paper now.&lt;/p&gt;
-
-&lt;h3 id=&#34;assignment&#34;&gt;Assignment&lt;/h3&gt;
-
-&lt;p&gt;Before the next class (Monday, 24 September), you should read:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari, &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;, Chapter
-14-17 (if you want to read further, we&amp;rsquo;ll complete the book the
-following week).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Neil DeGrasse Tyson, &lt;a href=&#34;https://aipavilion.github.io/docs/tyson.pdf&#34;&gt;&lt;em&gt;Science&amp;rsquo;s Endless Golden Age&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tim Urban (&amp;ldquo;Wait but why&amp;rdquo;), &lt;a href=&#34;https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;&lt;em&gt;The AI Revolution: The Road to Superintelligence&lt;/em&gt;&lt;/a&gt; (Part I). (Posted in 2015)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;(optional) John Maynard Keynes, &lt;a href=&#34;https://aipavilion.github.io/docs/keynes.pdf&#34;&gt;&lt;em&gt;Economic Possibilities for our Grandchildren&lt;/em&gt;&lt;/a&gt;, 1930.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Read carefully, different from previous weeks:&lt;/strong&gt;
-Everyone should (1) post at least one &amp;ldquo;fact check&amp;rdquo; (about any claim of
-your choice in any of the readings), (2) post a response to one of the
-readings (I&amp;rsquo;ve provided some promts for the &lt;em&gt;Sapiens&lt;/em&gt; chapters below,
-but you can respond to any of the readings by posing and answering
-your own question, and (3) post a (thoughtful and respectful) comment
-on someone else&amp;rsquo;s fact check or response. (If you are the first one to
-do (1) and (2), you do not need to do (3).)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://redd.it/9gq3og&#34;&gt;Week 3: Sapiens, Ch 14-17: Fact Checks&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://redd.it/9gq41s&#34;&gt;Week 3: Other Readings: Fact Checks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://redd.it/9gq46t&#34;&gt;Week 3: Sapiens, Ch 14-17: Responses&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://redd.it/9gq4bw&#34;&gt;Week 3: Other Readings: Responses&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;response-prompts-for-sapiens-a-brief-history-of-humankind-chapters-14-17&#34;&gt;Response prompts for &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;, Chapters 14-17&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;(Chapter 14) Question 1:&lt;/strong&gt; Harari writes,&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;All modern attempts to stabilise the sociopolitical order have had no choice but to rely on either of two unscientific methods:&lt;/p&gt;
-
-&lt;p&gt;a. Take a scientific theory, and in opposition to common scientific
-practices, declare that it is a final and absolute truth. This was the
-method used by Nazis (who claimed that their racial policies were the
-corollaries of biological facts) and Communists (who claimed that Marx
-and Lenin had divined absolute economic truths that could never be
-refuted).&lt;/p&gt;
-
-&lt;p&gt;b. Leave science out of it and live in accordance with a
-non-scientific absolute truth. This has been the strategy of liberal
-humanism, which is built on a dogmatic belief in the unique worth and
-rights of human beings – a doctrine which has embarrassingly little in
-common with the scientific study of Homo sapiens.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This seems like a pretty bleak choice. Is there no other option? (or
-is one of these, less unpalatable than it seems in Harari&amp;rsquo;s writing?)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;(Chapter 14) Question 2:&lt;/strong&gt; Harari writes about Bacon&amp;rsquo;s argument in
-&lt;a href=&#34;https://www.earlymoderntexts.com/assets/pdfs/bacon1620.pdf&#34;&gt;&lt;em&gt;Novum Organum
-Scientiarum&lt;/em&gt;&lt;/a&gt;
-that &amp;ldquo;knowledge is power&amp;rdquo;. In founding the University, Jefferson
-wrote,&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;[T]his last establishment [a state university] will probably
-be within a mile of Charlottesville, and four from Monticello, if the
-system should be adopted at all by our legislature who meet within a
-week from this time. my hopes however are kept in check by the
-ordinary character of our state legislatures, the members of which do
-not generally possess information enough to percieve the important
-truths, that knowlege is power, that knowlege is safety, and that
-knowlege is happiness.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(when the &lt;a href=&#34;https://news.virginia.edu/content/university-virginia-publicly-launches-3-billion-campaign&#34;&gt;University uses this
-quote&lt;/a&gt;
-they tend to leave out the context that it was part of a dig against
-the state legislators).&lt;/p&gt;
-
-&lt;p&gt;How much of an influence on Jefferson was Bacon? (This isn&amp;rsquo;t really a
-response question, but something you might be interested in looking
-into.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;(Chapter 16) Question 3:&lt;/strong&gt; Harari quotes Adam Smith, &amp;ldquo;In the new
-capitalist creed, the first and most sacred commandment is: ‘The
-profits of production must be reinvested in increasing production.’&amp;rdquo;
-In Smith&amp;rsquo;s time, businesses produced physical goods, and producing
-more of them required investment in capital. Today, most businesses
-mostly produce virtual goods, that can be produced in unlimited
-quantities without any production cost. Has this changed the
-capitalist creed?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;(Chapter 16) Question 4:&lt;/strong&gt; Harari writes, &amp;ldquo;Much like the Agricultural
-Revolution, so too the growth of the modern economy might turn out to
-be a colossal fraud.  The human species and the global economy may
-well keep growing, but many more individuals may live in hunger and
-want.&amp;rdquo; He offers two answers to this (there&amp;rsquo;s no alternative, and we
-just need more patience), neither of which seems very satisfying. Is
-there a better answer?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;(Chapter 17) Question 5:&lt;/strong&gt; Discuss this quote:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The history of ethics is a sad tale of wonderful ideals that nobody
-can live up to. Most Christians did not imitate Christ, most Buddhists
-failed to follow Buddha, and most Confucians would have caused
-Confucius a temper tantrum.  In contrast, most people today
-successfully live up to the capitalist-consumerist ideal. The new
-ethic promises paradise on condition that the rich remain greedy and
-spend their time making more money, and that the masses give free rein
-to their cravings and passions – and buy more and more. This is the
-first religion in history whose followers actually do what they are
-asked to do. How, though, do we know that we’ll really get paradise in
-return? We’ve seen it on television.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>Links Loebner Prize (Turing Test)
+Let&amp;rsquo;s chat with Mitsuku!
+The transcripts you read were from Can machines think? A report on Turing test experiments at the Royal Society, Kevin Warwick and Huma Shah, Journal of Experimental &amp;amp; Theoretical Artificial Intelligence, 2016.
+Upcoming: First Paper The idea for your first paper is due Sunday, 30 September. From the syllabus, the first paper can &amp;ldquo;focus on one aspect of how artificial intelligence has already impacted society, describing the impact of technological advances on a social, political, economic, or psychological aspect of human existence.</description>
     </item>
     
     <item>
@@ -740,152 +154,10 @@ return? We’ve seen it on television.&amp;rdquo;&lt;/p&gt;
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week2/</guid>
-      <description>
-
-&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://aipavilion.github.io/docs/week2.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
-
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://xkcd.com/1338/&#34;&gt;XKCD Land Mammals&lt;/a&gt;&lt;br /&gt;
-OurWorldInData: &lt;a href=&#34;https://ourworldindata.org/grapher/child-mortality&#34;&gt;Child Mortality&lt;/a&gt;, &lt;a href=&#34;https://ourworldindata.org/democracy&#34;&gt;Democracy&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;assignment&#34;&gt;Assignment&lt;/h3&gt;
-
-&lt;p&gt;Before the next class (Monday, 17 September), you should read:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Part Three of Yuval Noah Harari, &lt;em&gt;Sapiens: A Brief History of
-Humankind&lt;/em&gt;. Everyone should read Chapters 9, 10, and 13; Chapters 11
-and 12 are &amp;ldquo;optional&amp;rdquo; - I think they provide a lot of eye-opening
-insights, but it is not necessary to read them for the seminar. As a
-warning, Chapter 12 is about religion and is quite dismissive of
-major religions.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Alan Turing, &lt;a href=&#34;https://aipavilion.github.io/docs/turing.pdf&#34;&gt;&lt;em&gt;Computing Machinery and
-Intelligence&lt;/em&gt;&lt;/a&gt; (1950).&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These two are optional (you are not expected to read them, but I think
-they are worthwhile and you&amp;rsquo;ll find them interesting):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Claude Shannon, &lt;a href=&#34;https://aipavilion.github.io/docs/shannon.pdf&#34;&gt;&lt;em&gt;Programming a Computer for Playing Chess&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Silver et al., &lt;a href=&#34;https://arxiv.org/pdf/1712.01815.pdf&#34;&gt;&lt;em&gt;Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm&lt;/em&gt;&lt;/a&gt;, 2017.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Everyone should post at least one &amp;ldquo;fact check&amp;rdquo; (about any claim of
-your choice in either the Sapiens or the Turing reading; if it is the
-same as another student&amp;rsquo;s, you should provide more evidence or
-counter-evidence responding to their post), and for both of the
-readings write a response to at least one of the questions below or
-post a free response to your own question.&lt;/p&gt;
-
-&lt;p&gt;As discussed today, I won&amp;rsquo;t set a specific deadline for posting
-responses, but everyone is strongly encouraged to not wait until the
-day before class to start posting, and I&amp;rsquo;m hoping to see some
-constructive on-line discussion.  It isn&amp;rsquo;t necessary to finish the
-readings before posting, and I would encourage reading the relevant
-response prompts below as you read each reading.&lt;/p&gt;
-
-&lt;p&gt;Please post your responses as comments for the appropriate post (and
-you are encouraged to comment on others&amp;rsquo; responses).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://redd.it/9et27c&#34;&gt;Week 2: Sapiens, Ch 9-13: Fact Checks&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://redd.it/9et2a7&#34;&gt;Week 2: Turing: Fact Checks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://redd.it/9et2h0&#34;&gt;Week 2: Sapiens, Ch 9-13: Responses&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://redd.it/9et2jy&#34;&gt;Week 2: Turing: Responses&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;response-questions-for-sapiens-a-brief-history-of-humankind-part-three&#34;&gt;Response questions For &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;, Part Three&lt;/h3&gt;
-
-&lt;p&gt;Choose any one (or more) of these questions to respond to, or make up
-your own question.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chapter 9:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Question 1: Harari writes about the unification of human cultures to the point
-  where nearly all humans are closely interconnected. What is the most
-  different culture you&amp;rsquo;ve experienced? How fundamentally different is
-  it from your own?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chapter 10:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Question 2: Harari writes, &amp;ldquo;We accept the dollar in payment, because we trust
-in God and the US secretary of the treasury.&amp;ldquo;. What are we actually
-trusting the US secretary of the treasury to do?  (Hint: since 2003,
-we&amp;rsquo;re also putting a lot of trust in a different cabinet secretary.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chapter 11:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Question 3: &amp;ldquo;As the twenty-first century unfolds, nationalism is fast losing
-ground. More and more people believe that all of humankind is the
-legitimate source of political authority, rather than the members of a
-particular nationality, and that safeguarding human rights and
-protecting the interests of the entire human species should be the
-guiding light of politics.&amp;rdquo; As we discussed a bit in class Monday, in
-the last few years since this was written, a lot has happened to
-contradict this view, and there has been a rise of nationalism in many
-countries (including, of course, the US and Britain). Is there still
-reason to believe in the longstanding trends away from nationalism?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chapter 12:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Question 4: Harari describes &lt;em&gt;Humanism&lt;/em&gt; as &amp;ldquo;a belief that Homo sapiens has a
-unique and sacred nature, which is fundamentally different from the
-nature of all other animals and of all other phenomena. Humanists
-believe that the unique nature of Homo sapiens is the most important
-thing in the world, and it determines the meaning of everything that
-happens in the universe. The supreme good is the good of Homo
-sapiens. The rest of the world and all other beings exist solely for
-the benefit of this species.&amp;rdquo;  According to Wikipedia, &amp;ldquo;Humanism is a
-philosophical and ethical stance that emphasizes the value and agency
-of human beings, individually and collectively, and generally prefers
-critical thinking and evidence (rationalism and empiricism) over
-acceptance of dogma or superstition.&amp;rdquo; Can these definitions be
-reconciled? How well does Harari&amp;rsquo;s argument hold up with Wikipedia&amp;rsquo;s
-definition?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chapter 13:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Question 5: &amp;ldquo;In memetics, &amp;ldquo;Successful cultures are those that excel in
-reproducing their memes, irrespective of the costs and benefits to
-their human hosts.&amp;rdquo;  Is there a better way to measure success of a
-culture?&lt;/p&gt;
-
-&lt;h3 id=&#34;turing-computing-machinery-and-intelligence&#34;&gt;Turing, &lt;em&gt;Computing Machinery and Intelligence&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;Choose any one (or more) of these questions to respond to, or make up
-your own question.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Turing sets up the game where the computer plays the role of one of
-the respondents. How would things be different if the computer player
-the role of the questioner (so the test was being able to classify A/B
-as well as a human questioner can)?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Turing wrote this 68 years ago: &amp;ldquo;I believe that in a-bout fifty
-years&amp;rsquo; time it will be possible to programme computers, with a
-storage capacity of about 10^9, to make them play the imitation game
-so well that an average interrogator will not have more than 70 per
-cent. chance of making the right identification after five minutes of
-questioning.  The original question, &amp;lsquo;Can machines think ? &amp;rsquo; I
-believe to be too meaningless to deserve discussion. Nevertheless I
-believe that at the end of the century the use of words and general
-educated opinion will have altered so much that one will be able to
-speak of machines thinking without expecting to be contradicted. I
-believe further that no useful purpose is served by concealing these
-beliefs.&amp;rdquo; How good was his prediction?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Turing discusses nine potential objections to his Imitation Game
-test. Which one do you find most convincing (that is, where Turing&amp;rsquo;s
-counter-argument is not convincing)? Or, what other objection do you
-have?&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Links XKCD Land Mammals
+OurWorldInData: Child Mortality, Democracy
+Assignment Before the next class (Monday, 17 September), you should read:
+  Part Three of Yuval Noah Harari, Sapiens: A Brief History of Humankind. Everyone should read Chapters 9, 10, and 13; Chapters 11 and 12 are &amp;ldquo;optional&amp;rdquo; - I think they provide a lot of eye-opening insights, but it is not necessary to read them for the seminar. As a warning, Chapter 12 is about religion and is quite dismissive of major religions.</description>
     </item>
     
     <item>
@@ -894,126 +166,22 @@ have?&lt;/p&gt;&lt;/li&gt;
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://aipavilion.github.io/week1/</guid>
-      <description>
-
-&lt;div class=&#34;printing&#34;&gt;&lt;a href=&#34;https://aipavilion.github.io/docs/week1.pdf&#34;&gt;PDF for Printing&lt;/a&gt;&lt;/div&gt;
-
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;Video: &lt;a href=&#34;https://www.youtube.com/watch?v=7Pq-S557XQU&#34;&gt;&lt;em&gt;Humans Need Not Apply&lt;/em&gt;&lt;/a&gt; by CPG Grey&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/evansuva/class1-reduced&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;assignment&#34;&gt;Assignment&lt;/h3&gt;
-
-&lt;p&gt;Before the next class (Monday, 10 September), you should read:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The first two parts (Chapters 1-8) of Yuval Noah Harari, &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Yuval Noah Harari. &lt;a href=&#34;https://www.theatlantic.com/amp/article/568330/&#34;&gt;&lt;em&gt;Why Technology Favors Tyranny&lt;/em&gt;&lt;/a&gt;.
-The Atlantic, October 2018.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Along with the readings, you should:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Keep track of how long you spend:&lt;/strong&gt; I want to make the reading
-assignments reasonable time expectation. This is a fairly long one,
-since we want to make progress in the book, and our first class is
-nearly a week into the semester.  In general, I would advocate for
-reading less more deeply and thoughtfully, than reading too much too
-quickly. So, if the volume of reading expected in this class is too
-much for you to read thoughtfully, please let me know.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Check facts:&lt;/strong&gt; As part of your reading, you should select at
-least one claim in the readings to fact check. Once you&amp;rsquo;ve selected
-the claim you want to fact check, post it as a comment to the post in
-the &lt;a href=&#34;https://www.reddit.com/r/aipavilion/&#34;&gt;class sub-reddit&lt;/a&gt;. A good
-fact check will include references to other sources that either
-support or contradict the claims in the book.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Reponses:&lt;/strong&gt; for each of the readings, either (1) write a short
-response to at least two of the questions below, or (2) write a
-detailed response to one of the questions below, or (3) pose your own
-question and provide a respone. Post it in the &lt;a href=&#34;https://redd.it/9cobz2&#34;&gt;class
-sub-reddit&lt;/a&gt;. You may select any one of the
-options above, but should be prepared to contribute to discussions in
-the next class on many of these topics.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;There are three posts in &lt;a href=&#34;https://www.reddit.com/r/aipavilion/&#34;&gt;class sub-reddit&lt;/a&gt; for your responses:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://redd.it/9cppyt&#34;&gt;Week 1: Fact Checks&lt;/a&gt; - for fact checking the claims in the readings.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://redd.it/9cpqcj&#34;&gt;Week 1: Sapiens, Ch 1-8 Responses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://redd.it/9cpqk3&#34;&gt;Week 1: Responses to &amp;ldquo;Why Technology Favors Tyranny&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Please post your responses as comments for the appropriate post (and
-you are encouraged to comment on others&amp;rsquo; responses).&lt;/p&gt;
-
-&lt;p&gt;Response questions For &lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (see
-above - you do not need to write responses to all of these!):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Sapiens&lt;/em&gt; divides history into three main revolutions: cognitive revolution (70,000 years ago), agricultural revoluation (12,000 years ago), and scientific revolution (500 years ago). Describe a different way of dividing human history, and make a case for why it is better.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 2 writes about millions of individuals working together to make a nuclear warhead.  Pick a simple artifact you use every day and estimate how many humans cooperated to produce it?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 4: How should understanding of the historical impact of humans on other species guide our current attitudes and policies (for example, regarding endangered species and habitat protection)?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 5: Why has no noteworthy plant or animal been domesticated in the past 2,000 years?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 5: Harari writes, &amp;ldquo;We did not domesticate wheat. It domesticated us.&amp;rdquo; Is this true? How does it change your world view? Will future historians look at what smart phones did to your generation, and conclude they were a trap like wheat was to our predecessors?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 5: &amp;ldquo;This discrepancy between evolutionary success and individual suffering is
-perhaps the most important lesson we can draw from the Agricultural Revolution.&amp;rdquo; How should we measure the success of a species?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 6: Harari transforms Jefferson&amp;rsquo;s introduction to the Declaration of Independence into &amp;ldquo;We hold these truths to be self-evident, that all men evolved differently, that they are born with certain mutable characteristics, and that among these are life and the pursuit of pleasure.&amp;rdquo;  Can you do better?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 6: Describe the imagined order(s) that most influenced your life in high school or here at UVA.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 6: Discuss: &amp;ldquo;There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious
-exercise yard of a bigger prison.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 7: The three main limits of human memory presented are limited capacity, dies with the human, and only adapted to store particular types of information. Are these the most important limitations of human memory? (See Joshua Foer&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Moonwalking-with-Einstein/dp/B004QFAEJC/&#34;&gt;&lt;em&gt;Moonwalking with Einstein&lt;/em&gt;&lt;/a&gt; on human memory training and competition.)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 7: &amp;ldquo;Our computers have trouble understanding how Homo sapiens
-talks, feels and dreams. So we are teaching Homo sapiens to talk, feel
-and dream in the language of numbers, which can be understood by
-computers.&amp;rdquo; Really?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 8: Harari writes about vicious circles that perpetuate imagined hierarchies of discrimination and subjugation. How can such vicious circles be ended? In human history, what are successful examples of ending them?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chapter 8 presents three theories for nearly universal male dominance in human societies, but admits that none of them are convincing. Any better theories?&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Response questions for &lt;em&gt;Why Technology Favors Tyranny&lt;/em&gt; (see above - you do not need to write responses to all of these!):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&amp;ldquo;Fears of machines pushing people out of the job market are, of course, nothing new, and in the past such fears proved to be unfounded. But artificial intelligence is different from the old machines. In the past, machines competed with humans mainly in manual skills. Now they are beginning to compete with us in cognitive skills. And we don’t know of any third kind of skill—beyond the manual and the cognitive—in which humans will always have an edge.&amp;rdquo; Are there any candidates for a &amp;ldquo;third kind of skill&amp;rdquo; where humans would have a permanent advantage?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&amp;ldquo;AI is a tool and a weapon unlike any other that human beings have developed; it will almost certainly allow the already powerful to consolidate their power further.&amp;rdquo; Some tools have empowered individuals; others have empowered centralized authorities. Why is AI a tool for consolidating power (or is it)?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;It is surprising to me that Harari&amp;rsquo;s essay does not mention China. Does what has happened in the last few decades in China contradict or support Harari&amp;rsquo;s claim that, &amp;ldquo;The decentralized approach to decision making that is characteristic of liberalism—in both politics and economics—has allowed liberal democracies to outcompete other states, and to deliver rising affluence to their people.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;What kinds of human decision-making should be left to machines?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Do you agree with Harari&amp;rsquo;s call to action: &amp;ldquo;If you find these prospects alarming—if you dislike the idea of living in a digital dictatorship or some similarly degraded form of society—then the most important contribution you can make is to find ways to prevent too much data from being concentrated in too few hands, and also find ways to keep distributed data processing more efficient than centralized data processing. These will not be easy tasks. But achieving them may be the best safeguard of democracy.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;contributing-to-the-class-forum&#34;&gt;Contributing to the Class Forum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Post links to interesting and relevant (this is very broadly defined) articles you find, along with a short comment about why you found it interesting or whether you agree with it.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Post follow-up questions (and answers)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;div class=&#34;quote&#34;&gt;
-   &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>Links Video: Humans Need Not Apply by CPG Grey
+Slides
+Assignment Before the next class (Monday, 10 September), you should read:
+  The first two parts (Chapters 1-8) of Yuval Noah Harari, Sapiens: A Brief History of Humankind.
+  Yuval Noah Harari. Why Technology Favors Tyranny. The Atlantic, October 2018.
+  Along with the readings, you should:
+  Keep track of how long you spend: I want to make the reading assignments reasonable time expectation.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://aipavilion.github.io/welcome/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aipavilion.github.io/welcome/</guid>
+      <description>Welcome to the website for the Pavilion Seminar, &amp;ldquo;How will Artificial Intelligence change Humanity?&amp;rdquo;. The seminar will be offered in Fall 2018, led by David Evans. Enrollment is by permission only, and strictly limited to 15 students (according to the Pavilion seminar rules).</description>
     </item>
     
   </channel>

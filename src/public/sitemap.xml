@@ -1,102 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aipavilion.github.io/</loc>
     <lastmod>2018-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/papers/</loc>
     <lastmod>2018-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aipavilion.github.io/post/</loc>
+    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aipavilion.github.io/papers/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week12/</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week11/</loc>
     <lastmod>2018-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/paper-updates/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week10/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week9/</loc>
     <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week8/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week7/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week6/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week5/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week4/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week3/</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week2/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/week1/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/syllabus/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/welcome/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aipavilion.github.io/readings/</loc>
-  </url>
-  
-  <url>
+    <priority>0</priority>
+  </url><url>
     <loc>https://aipavilion.github.io/schedule/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://aipavilion.github.io/tags/</loc>
+  </url><url>
+    <loc>https://aipavilion.github.io/topics/</loc>
   </url>
-  
 </urlset>
